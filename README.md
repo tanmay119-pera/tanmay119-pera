@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION — ALL CAPS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=800&color=FF10F0&background=00000000&center=true&vCenter=true&repeat=true&width=900&lines=NOT+JUST+CHASING+%E2%80%94+I'M+CREATING+SOMETHING+%F0%9F%93%88;TECH+ENTHUSIAST+%7C+AI+BUILDER+%7C+OPEN+SOURCE+%E2%9A%A1;TEACHING+PYTHON+%7C+JS+%7C+HTML+%7C+CSS+%7C+C+%7C+C%2B%2B;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5;COLLABORATING+WITH+AI+ENGINEERS+WORLDWIDE+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=800&color=FF10F0&background=00000000&center=true&vCenter=true&repeat=true&width=900&lines=NOT+JUST+CHASING+%E2%80%94+I'M+CREATING+SOMETHING+%F0%9F%93%88;TECH+ENTHUSIAST+%7C+AI+BUILDER+%7C+OPEN+SOURCE+%E2%9A%A1;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5;COLLABORATING+WITH+AI+ENGINEERS+WORLDWIDE+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -144,7 +144,7 @@ My bet? **Make programming feel less scary, more exciting.**
 
 ---
 
-## 🚀 ROCKET CONTRIBUTION GAME
+## 🏆 CONTRIBUTION GRAPH
 
 <p align="center">
   <img src="https://img.shields.io/badge/MISSION-LIFTOFF%20ACTIVE-FF10F0?style=for-the-badge&logo=spacex&logoColor=white&labelColor=000000" />
@@ -166,28 +166,28 @@ My bet? **Make programming feel less scary, more exciting.**
 
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
-    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Tanmay119">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Tanmay.w119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Tanmay.w119-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Tanmay.w119-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adesh-srivastava-706278411">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tanmayy.y911">
-    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&color_1=00D4FF&color_2=C850C0&color_3=FF10F0&height=180&section=footer&text=%E2%9A%A1%20NOT%20JUST%20CHASING%20%E2%80%94%20I'M%20CREATING%20SOMETHING%20%E2%9A%A1&fontSize=20&fontAlignY=65&fontColor=FFFFFF&desc=%20Built%20with%20passion%20by%20Tanmay%20%F0%9F%9A%80&descSize=13&descAlignY=82&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=C850C0&customColorList=1,2,3&color_1=10081d&color_2=7B2CBF&color_3=C850C0&height=180&section=footer&text=%E2%9A%A1%20NOT%20JUST%20CHASING%20%E2%80%94%20I'M%20CREATING%20SOMETHING%20%E2%9A%A1&fontSize=20&fontAlignY=65&fontColor=FFFFFF&desc=%20Built%20with%20passion%20by%20Tanmay%20%F0%9F%9A%80&descSize=13&descAlignY=82&descAlign=50&animation=twinkling" width="100%" />
 </p>
