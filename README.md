@@ -6,7 +6,7 @@
 <!-- TYPING ANIMATION — ALL CAPS -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&repeat=true&width=900&lines=NOT+JUST+CHASING+%E2%80%94+I'M+CREATING+SOMETHING+%F0%9F%93%88;CODE+EDUCATOR+%7C+AI+BUILDER+%7C+OPEN+SOURCE+%E2%9A%A1;TEACHING+PYTHON+%7C+JS+%7C+HTML+%7C+CSS+%7C+C+%7C+C%2B%2B;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5;COLLABORATING+WITH+AI+ENGINEERS+WORLDWIDE+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=800&color=FF10F0&background=00000000&center=true&vCenter=true&repeat=true&width=900&lines=NOT+JUST+CHASING+%E2%80%94+I'M+CREATING+SOMETHING+%F0%9F%93%88;TECH+ENTHUSIAST+%7C+AI+BUILDER+%7C+OPEN+SOURCE+%E2%9A%A1;TEACHING+PYTHON+%7C+JS+%7C+HTML+%7C+CSS+%7C+C+%7C+C%2B%2B;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5;COLLABORATING+WITH+AI+ENGINEERS+WORLDWIDE+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,12 +44,14 @@ My bet? **Make programming feel less scary, more exciting.**
 </tr>
 </table>
 
+
+
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-00D4FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-C850C0?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-AI%20%26%20BUILDING%20THINGS-00D4FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-AI%20%26%20BUILDING%20THINGS-C850C0?style=for-the-badge&labelColor=000000" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FUN%20FACT-YOU%20CAN'T%20FEEL%20BORED%20AROUND%20ME-%23FF6B6B?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FUN%20FACT-CAN'T%20FEEL%20BORED%20AROUND%20ME-C850C0?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -122,7 +124,7 @@ My bet? **Make programming feel less scary, more exciting.**
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20WANT%20TO%20JOIN%20THIS%20JOURNEY%3F-LET'S%20COLLABORATE-00D4FF?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20WANT%20TO%20JOIN%20THIS%20JOURNEY%3F-LET'S%20COLLABORATE-C850C0?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
@@ -142,10 +144,20 @@ My bet? **Make programming feel less scary, more exciting.**
 
 ---
 
-## 📈 CONTRIBUTION GRAPH
+## 🚀 ROCKET CONTRIBUTION GAME
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanmay119-pera&bg_color=000000&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&area_color=00D4FF&hide_border=true&title_color=00D4FF" alt="Contribution Graph" width="100%" />
+  <img src="https://img.shields.io/badge/MISSION-LIFTOFF%20ACTIVE-FF10F0?style=for-the-badge&logo=spacex&logoColor=white&labelColor=000000" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TRAJECTORY-EXPONENTIAL-00D4FF?style=for-the-badge&logo=astronomy&logoColor=white&labelColor=000000" />
+</p>
+
+<p align="center">
+  <img src="./dist/github-jet.svg" alt="Rocket Game Contribution Heatmap" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=500&color=C850C0&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%F0%9F%9A%80+Rocket+firing+lasers+at+active+contribution+days...;%E2%9A%A1+Cyberpunk+Purple+%26+Cyan+Engine+Running!" alt="Rocket Telemetry" />
 </p>
 
 ---
@@ -154,32 +166,28 @@ My bet? **Make programming feel less scary, more exciting.**
 
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
-    <img src="https://img.shields.io/badge/--%20-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Tanmay119">
-    <img src="https://img.shields.io/badge/--%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Tanmay.w119@gmail.com">
-    <img src="https://img.shields.io/badge/--%20-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Tanmay.w119-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adesh-srivastava-706278411">
-    <img src="https://img.shields.io/badge/--%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tanmayy.y911">
-    <img src="https://img.shields.io/badge/--%20-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ "NOT JUST CHASING — I'M CREATING SOMETHING." ⚡</b>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D4FF&height=120&section=footer&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,3&color_1=00D4FF&color_2=C850C0&color_3=FF10F0&height=180&section=footer&text=%E2%9A%A1%20NOT%20JUST%20CHASING%20%E2%80%94%20I'M%20CREATING%20SOMETHING%20%E2%9A%A1&fontSize=20&fontAlignY=65&fontColor=FFFFFF&desc=%20Built%20with%20passion%20by%20Tanmay%20%F0%9F%9A%80&descSize=13&descAlignY=82&descAlign=50&animation=twinkling" width="100%" />
 </p>
