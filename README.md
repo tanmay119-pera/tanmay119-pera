@@ -132,13 +132,13 @@ My bet? **Make programming feel less scary, more exciting.**
 ## 📚 STUDENT RESOURCES I'M BUILDING
 
 | Language | What You Get | Repo |
-|----------|-------------|------|
-| 🐍 Python | Code + Notes + Practice Questions | [PYTHON-A-TO-Z](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) |
-| 📄 HTML | 5 Chapters + Notes + 2 Projects | [HTML-Learning-beginners-](https://github.com/tanmay119-pera/HTML-Learning-beginners-) |
-| 🌐 JavaScript | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| 🎨 CSS | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| ⚙️ C | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| 🔧 C++ | Code + Notes + Practice Questions | 🔜 Coming Soon |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=python" width="26" height="26" alt="Python"/> **Python** | Code + Notes + Practice Questions | [PYTHON-A-TO-Z](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) |
+| <img src="https://skillicons.dev/icons?i=html" width="26" height="26" alt="HTML"/> **HTML** | 5 Chapters + Notes + 2 Projects | [HTML-Learning-beginners-](https://github.com/tanmay119-pera/HTML-Learning-beginners-) |
+| <img src="https://skillicons.dev/icons?i=js" width="26" height="26" alt="JavaScript"/> **JavaScript** | Code + Notes + Practice Questions | 🔜 Coming Soon |
+| <img src="https://skillicons.dev/icons?i=css" width="26" height="26" alt="CSS"/> **CSS** | Code + Notes + Practice Questions | 🔜 Coming Soon |
+| <img src="https://skillicons.dev/icons?i=c" width="26" height="26" alt="C"/> **C** | Code + Notes + Practice Questions | 🔜 Coming Soon |
+| <img src="https://skillicons.dev/icons?i=cpp" width="26" height="26" alt="C++"/> **C++** | Code + Notes + Practice Questions | 🔜 Coming Soon |
 
 > ⭐ **Star the repos if they help you — it keeps me going!**
 
@@ -154,10 +154,6 @@ My bet? **Make programming feel less scary, more exciting.**
 
 <p align="center">
   <img src="./dist/github-jet.svg" alt="Rocket Game Contribution Heatmap" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=500&color=C850C0&center=true&vCenter=true&repeat=true&width=500&height=30&lines=%F0%9F%9A%80+Rocket+firing+lasers+at+active+contribution+days...;%E2%9A%A1+Cyberpunk+Purple+%26+Cyan+Engine+Running!" alt="Rocket Telemetry" />
 </p>
 
 ---
