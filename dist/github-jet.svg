@@ -253,7 +253,8 @@
 <rect x="482.00" y="29.00" width="11" height="11" rx="2" ry="2" fill="#FF10F0"><animate attributeName="fill" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0"/><animate attributeName="stroke" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#4A148C;#4A148C;#00D4FF;#4A148C;#00D4FF;#4A148C"/></rect>
 <rect x="482.00" y="43.00" width="11" height="11" rx="2" ry="2" fill="#FF10F0"><animate attributeName="fill" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0"/><animate attributeName="stroke" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#4A148C;#4A148C;#00D4FF;#4A148C;#00D4FF;#4A148C"/></rect>
 <rect x="482.00" y="57.00" width="11" height="11" rx="2" ry="2" fill="#FF10F0"><animate attributeName="fill" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0;#FF10F0"/><animate attributeName="stroke" dur="16s" repeatCount="indefinite" keyTimes="0;0.48;0.488;0.52;0.528;1" values="#4A148C;#4A148C;#00D4FF;#4A148C;#00D4FF;#4A148C"/></rect>
-<rect x="482.00" y="71.00" width="11" height="11" rx="2" ry="2" fill="#10081d" stroke="#1d122b" stroke-width="0.5"/>
+<rect x="482.00" y="71.00" width="11" height="11" rx="2" ry="2" fill="#7B2CBF" stroke="#5a189a" stroke-width="0.5"/>
+<rect x="482.00" y="85.00" width="11" height="11" rx="2" ry="2" fill="#10081d" stroke="#1d122b" stroke-width="0.5"/>
 </g>
 <g id="bullets">
 <circle cx="445.5" cy="132" r="2.5" fill="#00D4FF"><animate attributeName="cy" dur="16s" repeatCount="indefinite" keyTimes="0;0.4142;0.4382;1" values="132;132;48.5;48.5"/><animate attributeName="opacity" dur="16s" repeatCount="indefinite" keyTimes="0;0.4142;0.4382;0.4462;1" values="0;1;1;0;0"/></circle>
