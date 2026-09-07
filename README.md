@@ -1,13 +1,23 @@
-<!-- BANNER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- HERO BANNER (NEON LIGHTNING BLUE & OBSIDIAN BLACK)                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./banner.png" alt="Tanmay Banner" width="100%" />
+  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & AI Builder Banner" width="100%" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 16px 40px rgba(0, 212, 255, 0.25);" />
 </p>
 
-<!-- TYPING ANIMATION — ALL CAPS -->
+<!-- DYNAMIC TYPING SVG BANNER (CYBERNETIC NEON BLUE) -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=24&duration=2500&pause=800&color=FF10F0&background=00000000&center=true&vCenter=true&repeat=true&width=900&lines=NOT+JUST+CHASING+%E2%80%94+I'M+CREATING+SOMETHING+%F0%9F%93%88;TECH+ENTHUSIAST+%7C+AI+BUILDER+%7C+OPEN+SOURCE+%E2%9A%A1;BUILDING+THE+FUTURE%2C+ONE+COMMIT+AT+A+TIME+%F0%9F%94%A5;COLLABORATING+WITH+AI+ENGINEERS+WORLDWIDE+%F0%9F%8C%8D" alt="Typing SVG" />
+  <a href="https://github.com/tanmay119-pera">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=880&lines=%E2%9A%A1+AGENTIC+AI+DEVELOPER+%E2%80%A2+SYSTEMS+ARCHITECT;%F0%9F%8E%93+STUDENT+%26+AUTONOMOUS+AI+BUILDER;%F0%9F%A4%96+ORCHESTRATING+MULTI-AGENT+AI+WORKFLOWS;%F0%9F%9A%80+FROM+LOW-LEVEL+C+%26+PYTHON+TO+PRODUCTION+SYSTEMS" alt="Typing Banner" />
   </a>
+</p>
+
+<!-- QUICK IDENTITY BADGES -->
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Role-Agentic_AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="Agentic AI Developer" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Persona-Student_%26_AI_Builder-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=080C14" alt="Student & AI Builder" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=080C14" alt="India" /></a>
+  <a href="mailto:tanmay.w119@gmail.com"><img src="https://img.shields.io/badge/Email-tanmay.w119%40gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14" alt="Email" /></a>
 </p>
 
 ---
@@ -16,174 +26,180 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="52%" valign="top">
 
-### 🧠 The Brain Behind The Code
+### 🧠 The Core Architecture
 
-I'm **Tanmay** — a builder, educator, and relentless creator.
+Hey there! I'm **Tanmay (Adesh Srivastava)** — an **Agentic AI Developer**, **Student**, and **AI Builder**.
 
-While others chase certificates, I chase **real-world impact**.  
-I build free learning resources — **code + notes + questions** — for students learning Python, JS, HTML, CSS, C & C++.
+I focus on the intersection of **low-level systems architecture** and **autonomous AI intelligence**. While many treat AI as just simple prompts, I architect **multi-agent orchestration frameworks**, deterministic tool-use pipelines, and high-performance open-source curricula.
 
-My bet? **Make programming feel less scary, more exciting.**
+- 🤖 **Specialization:** Autonomous Agents, LLM Tool Integration & Zero-Dependency Systems
+- 🎓 **Identity:** Student pushing the frontier of practical AI engineering
+- ⚡ **Engineering Mindset:** Code that is fast, resilient, and built from first principles
 
 </td>
-<td width="50%">
+<td width="48%" valign="top">
 
-### 🚀 Right Now I'm...
+### 🚀 Real-Time Focus
 
-| | |
-|---|---|
-| 🔨 | Building AI projects from zero |
-| 🤝 | Collab-ing with AI beginners |
-| 📚 | Teaching 6 languages at once |
-| 🎯 | Targeting mastery, not mediocrity |
-| 💥 | Creating something different |
+| Status | Activity |
+| :---: | :--- |
+| 🤖 | **Architecting** autonomous multi-agent loops & task runners |
+| 🎓 | **Undergraduate Student** exploring systems & AI algorithms |
+| ⚡ | **Maintaining** production-grade C, Python, CSS & Web repositories |
+| 🛠️ | **Building** zero-dependency high-throughput web dashboards |
+| 🌐 | **Deploying** open-source code with real-world impact |
 
 </td>
 </tr>
 </table>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-C850C0?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/ASK%20ME%20ABOUT-AI%20%26%20BUILDING%20THINGS-C850C0?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI_%26_SYSTEMS-00D4FF?style=for-the-badge&labelColor=080C14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FUN%20FACT-CAN'T%20FEEL%20BORED%20AROUND%20ME-C850C0?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/PHILOSOPHY-BUILD_FIRST_PRINCIPLES-38BDF8?style=for-the-badge&labelColor=080C14" />
 </p>
 
 ---
 
 ## 🛠️ TECH ARSENAL
 
-### 💻 Languages
+### 🤖 Autonomous AI & Agentic Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,c,cpp,html,css&theme=dark&perline=6" alt="Languages" />
+  <img src="https://img.shields.io/badge/OpenAI_API-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="OpenAI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=080C14" alt="LangChain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14" alt="PyTorch" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=080C14" alt="TensorFlow" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=080C14" alt="Scikit-Learn" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=080C14" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=080C14" alt="Pandas" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=080C14" alt="Jupyter" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=080C14" alt="Hugging Face" />
 </p>
 
-### 🧰 Tools & Platforms
+### 💻 Core Systems & Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple&theme=dark&perline=5" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark&perline=6" alt="Languages" />
 </p>
 
-### 🤖 AI / ML Stack
+### 🧰 Developer Tools & Environment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=6" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark&perline=5" alt="Tools" />
 </p>
 
 ---
 
-## 🎯 AI ROADMAP — BASIC TO MASTERY
+## 🏆 CURATED OPEN-SOURCE REPOSITORIES
+
+<p align="center">
+  <b>Production-grade learning masterclasses, systems architecture, and live projects created by Tanmay:</b>
+</p>
+
+| Repository | Focus & Domain | Highlights & Scale | Status |
+| :--- | :--- | :--- | :---: |
+| [**`C-PROGRAMMING`**](https://github.com/tanmay119-pera/C-PROGRAMMING) | Low-Level Systems | 12 Deep Chapters • 10 Production Projects (Memory Safety, Pointers, Sockets) | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`PYTHON-A-TO-Z`**](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) | Core to Advanced Python | 10 Core Chapters • 10 Production Projects • Data Structures & Automation | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`CSS-PROGRAMMING`**](https://github.com/tanmay119-pera/CSS-PROGRAMMING) | Modern Web Architecture | 5 Master Chapters • 7 Practice Sets (A-G) • Friday Framework Capstone | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`WEB-PROJECTS`**](https://github.com/tanmay119-pera/WEB-PROJECTS) | Production Frontend Showcase | BMW i7 Luxury Experience & FoodDrop Multi-Vendor Delivery Platform | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`HTML-PROGRAMMING`**](https://github.com/tanmay119-pera/HTML-PROGRAMMING.git) | Web Structure & Semantics | 5 In-Depth Chapters • Semantic Layouts • Form Architectures | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+
+---
+
+## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
 
-![Phase 1](https://img.shields.io/badge/PHASE%201-PYTHON%20%2B%20MATH%20FUNDAMENTALS-brightgreen?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-brightgreen?style=for-the-badge)
+![Phase 1](https://img.shields.io/badge/PHASE%201-C%20%2B%20PYTHON%20SYSTEMS%20FOUNDATIONS-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-00D4FF?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 2](https://img.shields.io/badge/PHASE%202-DATA%20SCIENCE%20%26%20VISUALIZATION-yellow?style=for-the-badge&logo=databricks&logoColor=white)
-![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-yellow?style=for-the-badge)
+![Phase 2](https://img.shields.io/badge/PHASE%202-INTERACTIVE%20WEB%20ENGINEERING%20(CSS3%2C%20JS%2C%20DOM)-38BDF8?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-38BDF8?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 3](https://img.shields.io/badge/PHASE%203-MACHINE%20LEARNING%20(CLASSICAL)-00D4FF?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Status](https://img.shields.io/badge/%E2%8F%B3-COMING%20SOON-00D4FF?style=for-the-badge)
+![Phase 3](https://img.shields.io/badge/PHASE%203-CLASSICAL%20ML%20%26%20DEEP%20NEURAL%20NETWORKS-00D4FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-00D4FF?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 4](https://img.shields.io/badge/PHASE%204-DEEP%20LEARNING%20%26%20NEURAL%20NETWORKS-blueviolet?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Status](https://img.shields.io/badge/%E2%8F%B3-COMING%20SOON-blueviolet?style=for-the-badge)
+![Phase 4](https://img.shields.io/badge/PHASE%204-AUTONOMOUS%20MULTI--AGENT%20ORCHESTRATION-38BDF8?style=for-the-badge&logo=openai&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-38BDF8?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 5](https://img.shields.io/badge/PHASE%205-NLP%20%7C%20COMPUTER%20VISION%20%7C%20GENAI-orange?style=for-the-badge&logo=openai&logoColor=white)
-![Status](https://img.shields.io/badge/%E2%8F%B3-COMING%20SOON-orange?style=for-the-badge)
+![Phase 5](https://img.shields.io/badge/PHASE%205-AGENTIC%20MLOPS%20%26%20AUTONOMOUS%20SWARMS-00D4FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%8F%B3-UPCOMING-00D4FF?style=for-the-badge)
 
-</p>
-<p align="center">
-
-![Phase 6](https://img.shields.io/badge/PHASE%206-MLOPS%20%26%20PRODUCTION%20DEPLOYMENT-red?style=for-the-badge&logo=docker&logoColor=white)
-![Status](https://img.shields.io/badge/%E2%8F%B3-COMING%20SOON-red?style=for-the-badge)
-
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%92%A1%20WANT%20TO%20JOIN%20THIS%20JOURNEY%3F-LET'S%20COLLABORATE-C850C0?style=for-the-badge&labelColor=000000" />
 </p>
 
 ---
 
-## 📚 STUDENT RESOURCES I'M BUILDING
-
-| Language | What You Get | Repo |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=python" width="26" height="26" alt="Python"/> **Python** | Code + Notes + Practice Questions | [PYTHON-A-TO-Z](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) |
-| <img src="https://skillicons.dev/icons?i=html" width="26" height="26" alt="HTML"/> **HTML** | 5 Chapters + Notes + 2 Projects | [HTML-Learning-beginners-](https://github.com/tanmay119-pera/HTML-Learning-beginners-) |
-| <img src="https://skillicons.dev/icons?i=js" width="26" height="26" alt="JavaScript"/> **JavaScript** | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| <img src="https://skillicons.dev/icons?i=css" width="26" height="26" alt="CSS"/> **CSS** | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| <img src="https://skillicons.dev/icons?i=c" width="26" height="26" alt="C"/> **C** | Code + Notes + Practice Questions | 🔜 Coming Soon |
-| <img src="https://skillicons.dev/icons?i=cpp" width="26" height="26" alt="C++"/> **C++** | Code + Notes + Practice Questions | 🔜 Coming Soon |
-
-> ⭐ **Star the repos if they help you — it keeps me going!**
-
----
-
-## 🏆 CONTRIBUTION GRAPH
+## 🏆 ACTIVITY & CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION-LIFTOFF%20ACTIVE-FF10F0?style=for-the-badge&logo=spacex&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/MISSION-CYAN%20INTERCEPTOR%20COMBAT%20LOCKED-00D4FF?style=for-the-badge&logo=spacex&logoColor=black&labelColor=080C14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TRAJECTORY-EXPONENTIAL-00D4FF?style=for-the-badge&logo=astronomy&logoColor=white&labelColor=000000" />
+  <img src="https://img.shields.io/badge/TRAJECTORY-EXPONENTIAL%20GROWTH-38BDF8?style=for-the-badge&labelColor=080C14" />
 </p>
 
 <p align="center">
-  <img src="./dist/github-jet.svg" alt="Rocket Game Contribution Heatmap" width="100%" />
+  <img src="./dist/github-jet.svg" alt="Cyan Laser Jet Combat Heatmap" width="100%" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 12px 32px rgba(0, 212, 255, 0.15);" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CONTRIBUTIONS-250%2B%20IN%202026-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SEPTEMBER%20SURGE-64%20COMMITS-38BDF8?style=for-the-badge&logo=git&logoColor=white&labelColor=080C14" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/REPOSITORIES-6%20ACTIVE-00D4FF?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=080C14" />
 </p>
 
 ---
 
-## 🤝 LET'S CONNECT
+## 🤝 CONNECT & COLLABORATE
 
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
-    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:tanmay.w119@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tanmay.w119-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Tanmay119">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:Tanmay.w119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Tanmay.w119-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=000000" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-38BDF8?style=for-the-badge&logo=x&logoColor=white&labelColor=080C14" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adesh-srivastava-706278411">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=080C14" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/tanmayy.y911">
-    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-000000?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=000000" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-38BDF8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080C14" alt="Instagram" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=C850C0&customColorList=1,2,3&color_1=10081d&color_2=7B2CBF&color_3=C850C0&height=180&section=footer&text=%E2%9A%A1%20NOT%20JUST%20CHASING%20%E2%80%94%20I'M%20CREATING%20SOMETHING%20%E2%9A%A1&fontSize=20&fontAlignY=65&fontColor=FFFFFF&desc=%20Built%20with%20passion%20by%20Tanmay%20%F0%9F%9A%80&descSize=13&descAlignY=82&descAlign=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:00D4FF,100:38BDF8&height=180&section=footer&text=%E2%9A%A1%20BUILDING%20THE%20FUTURE%20OF%20AGENTIC%20AI%20%E2%9A%A1&fontSize=22&fontAlignY=65&fontColor=FFFFFF&desc=Engineered%20with%20precision%20by%20Tanmay%20(Adesh%20Srivastava)&descSize=13&descAlignY=82&descAlign=50&animation=fadeIn" width="100%" />
 </p>
