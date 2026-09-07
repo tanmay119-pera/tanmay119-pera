@@ -189,10 +189,6 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <a href="https://www.linkedin.com/in/adesh-srivastava-706278411">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=080C14" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/tanmayy.y911">
-    <img src="https://img.shields.io/badge/Instagram-tanmayy.y911-38BDF8?style=for-the-badge&logo=instagram&logoColor=white&labelColor=080C14" alt="Instagram" />
-  </a>
 </p>
 
 ---
