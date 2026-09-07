@@ -482,15 +482,18 @@
   <!-- Target Locked HUD -->
   <g transform="translate(620, 252)">
     <text x="0" y="10" fill="#00D4FF" font-size="11" font-weight="800" letter-spacing="1">⚡ TARGET LOCKED: 253 COMMITS</text>
+    <animate attributeName="opacity" values="0.3;0.3;1;1;0.3;0.3" keyTimes="0;0.48;0.51;0.79;0.82;1" dur="16s" repeatCount="indefinite" />
   </g>
 
   <!-- ==================== ROTATING HUD TARGET RETICLE ==================== -->
+  <!-- Appears and rotates ONLY when jet engages the active contribution sector -->
   <g transform="translate(766.0, 164.0)">
+    <animate attributeName="opacity" values="0;0;0.85;0.85;0;0" keyTimes="0;0.47;0.50;0.79;0.82;1" dur="16s" repeatCount="indefinite" />
     <circle cx="0" cy="0" r="30" fill="none" stroke="#00D4FF" stroke-width="1.2" stroke-dasharray="6,8" opacity="0.75">
-      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
     </circle>
     <circle cx="0" cy="0" r="20" fill="none" stroke="#38BDF8" stroke-width="0.8" stroke-dasharray="3,5" opacity="0.6">
-      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="4s" repeatCount="indefinite"/>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="3.5s" repeatCount="indefinite"/>
     </circle>
     <!-- Targeting Crosshairs -->
     <line x1="-36" y1="0" x2="-24" y2="0" stroke="#00D4FF" stroke-width="1.8"/>
@@ -499,135 +502,226 @@
     <line x1="0" y1="24" x2="0" y2="36" stroke="#00D4FF" stroke-width="1.8"/>
   </g>
 
-  <!-- ==================== HIGH-INTENSITY LASER CANNON BEAMS ==================== -->
-  <!-- Laser Beam 1: Wingtip Left -->
+  <!-- ==================== SEQUENTIAL SINGLE LASERS (ONE AT A TIME) ==================== -->
+  <!-- Laser Bolt 1: Active 8.2s - 9.0s (Target: Col 48/49) -->
   <g filter="url(#laserGlow)">
-    <line x1="512" y1="398" x2="746.0" y2="170.0" stroke="url(#laserCyan)" stroke-width="3.2" stroke-linecap="round">
-      <animate attributeName="opacity" values="0.6;1;0.7;1;0.6" dur="0.18s" repeatCount="indefinite" />
+    <line x1="742" y1="317" x2="745" y2="178" stroke="url(#laserCyan)" stroke-width="3.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.512;0.516;0.538;0.560;0.563;1" dur="16s" repeatCount="indefinite" />
     </line>
-    <line x1="512" y1="398" x2="746.0" y2="170.0" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="742" y1="317" x2="745" y2="178" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.512;0.516;0.538;0.560;0.563;1" dur="16s" repeatCount="indefinite" />
+    </line>
   </g>
 
-  <!-- Laser Beam 2: Nose Left -->
+  <!-- Laser Bolt 2: Active 9.4s - 10.2s (Target: Col 50) -->
   <g filter="url(#laserGlow)">
-    <line x1="530" y1="356" x2="761.0" y2="144.0" stroke="url(#laserCyan)" stroke-width="2.8" stroke-linecap="round">
-      <animate attributeName="opacity" values="0.8;1;0.5;1;0.8" dur="0.14s" repeatCount="indefinite" />
+    <line x1="766" y1="312" x2="766" y2="164" stroke="url(#laserCyan)" stroke-width="3.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.587;0.591;0.613;0.635;0.638;1" dur="16s" repeatCount="indefinite" />
     </line>
-    <line x1="530" y1="356" x2="761.0" y2="144.0" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" />
+    <line x1="766" y1="312" x2="766" y2="164" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.587;0.591;0.613;0.635;0.638;1" dur="16s" repeatCount="indefinite" />
+    </line>
   </g>
 
-  <!-- Laser Beam 3: Nose Right -->
+  <!-- Laser Bolt 3: Active 10.6s - 11.4s (Target: Col 51) -->
   <g filter="url(#laserGlow)">
-    <line x1="542" y1="348" x2="776.0" y2="176.0" stroke="url(#laserCyan)" stroke-width="3.4" stroke-linecap="round">
-      <animate attributeName="opacity" values="0.5;1;0.8;1;0.5" dur="0.2s" repeatCount="indefinite" />
+    <line x1="786" y1="317" x2="780" y2="150" stroke="url(#laserCyan)" stroke-width="3.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.662;0.666;0.688;0.710;0.713;1" dur="16s" repeatCount="indefinite" />
     </line>
-    <line x1="542" y1="348" x2="776.0" y2="176.0" stroke="#FFFFFF" stroke-width="1.4" stroke-linecap="round" />
+    <line x1="786" y1="317" x2="780" y2="150" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.662;0.666;0.688;0.710;0.713;1" dur="16s" repeatCount="indefinite" />
+    </line>
   </g>
 
-  <!-- Laser Beam 4: Wingtip Right -->
+  <!-- Laser Bolt 4: Active 11.8s - 12.6s (Target: Col 52) -->
   <g filter="url(#laserGlow)">
-    <line x1="568" y1="342" x2="792.0" y2="156.0" stroke="url(#laserCyan)" stroke-width="2.6" stroke-linecap="round">
-      <animate attributeName="opacity" values="0.4;0.9;0.5;1;0.4" dur="0.16s" repeatCount="indefinite" />
+    <line x1="800" y1="322" x2="794" y2="136" stroke="url(#laserCyan)" stroke-width="3.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.737;0.741;0.763;0.785;0.788;1" dur="16s" repeatCount="indefinite" />
     </line>
-    <line x1="568" y1="342" x2="792.0" y2="156.0" stroke="#FFFFFF" stroke-width="1.0" stroke-linecap="round" />
+    <line x1="800" y1="322" x2="794" y2="136" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round">
+      <animate attributeName="opacity" values="0;0;1;0.9;1;0;0" keyTimes="0;0.737;0.741;0.763;0.785;0.788;1" dur="16s" repeatCount="indefinite" />
+    </line>
   </g>
 
-  <!-- Impact Plasma Explosions on Commit Tiles -->
-  <g transform="translate(746.0, 170.0)" filter="url(#laserGlow)">
-    <circle cx="0" cy="0" r="12" fill="#00D4FF" opacity="0.6">
-      <animate attributeName="r" values="4;16;4" dur="0.22s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="0.22s" repeatCount="indefinite"/>
+  <!-- Impact Plasma Explosions (Trigger in sync with individual laser hits) -->
+  <g transform="translate(745, 178)" filter="url(#laserGlow)">
+    <circle cx="0" cy="0" r="14" fill="#00D4FF">
+      <animate attributeName="r" values="3;3;16;18;12;3;3" keyTimes="0;0.515;0.520;0.538;0.558;0.564;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0.7;0.9;0;0" keyTimes="0;0.515;0.520;0.538;0.558;0.564;1" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="0" cy="0" r="4" fill="#FFFFFF"/>
-  </g>
-
-  <g transform="translate(761.0, 144.0)" filter="url(#laserGlow)">
-    <circle cx="0" cy="0" r="10" fill="#38BDF8" opacity="0.7">
-      <animate attributeName="r" values="3;14;3" dur="0.18s" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0;0;1;0.8;1;0;0" keyTimes="0;0.515;0.520;0.538;0.558;0.564;1" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
   </g>
 
-  <g transform="translate(776.0, 176.0)" filter="url(#laserGlow)">
-    <circle cx="0" cy="0" r="14" fill="#00D4FF" opacity="0.65">
-      <animate attributeName="r" values="5;18;5" dur="0.26s" repeatCount="indefinite"/>
+  <g transform="translate(766, 164)" filter="url(#laserGlow)">
+    <circle cx="0" cy="0" r="14" fill="#38BDF8">
+      <animate attributeName="r" values="3;3;16;18;12;3;3" keyTimes="0;0.590;0.595;0.613;0.633;0.639;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0.7;0.9;0;0" keyTimes="0;0.590;0.595;0.613;0.633;0.639;1" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="0" cy="0" r="4.5" fill="#FFFFFF"/>
-  </g>
-
-  <g transform="translate(792.0, 156.0)" filter="url(#laserGlow)">
-    <circle cx="0" cy="0" r="9" fill="#38BDF8" opacity="0.8">
-      <animate attributeName="r" values="3;13;3" dur="0.19s" repeatCount="indefinite"/>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0;0;1;0.8;1;0;0" keyTimes="0;0.590;0.595;0.613;0.633;0.639;1" dur="16s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="0" cy="0" r="3" fill="#FFFFFF"/>
   </g>
 
-  <!-- ==================== ULTRA-COOL SCI-FI COMBAT INTERCEPTOR JET ==================== -->
-  <g transform="translate(550, 380) rotate(-45)">
-    <!-- Jet Hover Micro-Motion -->
-    <animateTransform attributeName="transform" type="translate" values="550,380; 552,376; 550,380" dur="1.8s" repeatCount="indefinite"/>
+  <g transform="translate(780, 150)" filter="url(#laserGlow)">
+    <circle cx="0" cy="0" r="14" fill="#00D4FF">
+      <animate attributeName="r" values="3;3;16;18;12;3;3" keyTimes="0;0.665;0.670;0.688;0.708;0.714;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0.7;0.9;0;0" keyTimes="0;0.665;0.670;0.688;0.708;0.714;1" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0;0;1;0.8;1;0;0" keyTimes="0;0.665;0.670;0.688;0.708;0.714;1" dur="16s" repeatCount="indefinite"/>
+    </circle>
+  </g>
 
-    <!-- Dual Heavy Plasma Exhaust Flames (Outer Cyan + Inner White Core) -->
-    <g transform="translate(0, 32)">
-      <!-- Left Nozzle Fire -->
-      <polygon points="-11,0 -6,38 -1,0" fill="#00D4FF" opacity="0.9" filter="url(#neonGlow)">
-        <animate attributeName="points" values="-11,0 -6,34 -1,0; -11,0 -6,46 -1,0; -11,0 -6,34 -1,0" dur="0.08s" repeatCount="indefinite"/>
-      </polygon>
-      <polygon points="-9,0 -6,22 -3,0" fill="#FFFFFF">
-        <animate attributeName="points" values="-9,0 -6,20 -3,0; -9,0 -6,28 -3,0; -9,0 -6,20 -3,0" dur="0.07s" repeatCount="indefinite"/>
+  <g transform="translate(794, 136)" filter="url(#laserGlow)">
+    <circle cx="0" cy="0" r="14" fill="#38BDF8">
+      <animate attributeName="r" values="3;3;16;18;12;3;3" keyTimes="0;0.740;0.745;0.763;0.783;0.789;1" dur="16s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.9;0.7;0.9;0;0" keyTimes="0;0.740;0.745;0.763;0.783;0.789;1" dur="16s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="0" r="4" fill="#FFFFFF">
+      <animate attributeName="opacity" values="0;0;1;0.8;1;0;0" keyTimes="0;0.740;0.745;0.763;0.783;0.789;1" dur="16s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- ==================== MOVING COMBAT INTERCEPTOR JET ==================== -->
+  <!-- Patrols smoothly across the timeline; engages weapons ONLY when contributions are nearby -->
+  <g id="combatJet">
+    <!-- Flight Path Translation Animation (16s Loop) -->
+    <animateTransform attributeName="transform" type="translate"
+      values="
+        100,375;
+        240,362;
+        400,375;
+        560,362;
+        680,370;
+        742,365;
+        742,365;
+        766,360;
+        766,360;
+        786,365;
+        786,365;
+        800,370;
+        800,370;
+        450,380;
+        100,375"
+      keyTimes="
+        0;
+        0.125;
+        0.250;
+        0.375;
+        0.469;
+        0.512;
+        0.563;
+        0.588;
+        0.638;
+        0.663;
+        0.713;
+        0.738;
+        0.788;
+        0.888;
+        1"
+      dur="16s" repeatCount="indefinite" />
+
+    <!-- Flight Banking & Tilt Rotation Animation -->
+    <g>
+      <animateTransform attributeName="transform" type="rotate"
+        values="
+          6;
+          -4;
+          6;
+          -3;
+          4;
+          -3;
+          -3;
+          0;
+          0;
+          3;
+          3;
+          -5;
+          -5;
+          -8;
+          6"
+        keyTimes="
+          0;
+          0.125;
+          0.250;
+          0.375;
+          0.469;
+          0.512;
+          0.563;
+          0.588;
+          0.638;
+          0.663;
+          0.713;
+          0.738;
+          0.788;
+          0.888;
+          1"
+        dur="16s" repeatCount="indefinite" />
+
+      <!-- Dual Heavy Plasma Exhaust Flames -->
+      <g transform="translate(0, 32)">
+        <!-- Left Nozzle Fire -->
+        <polygon points="-11,0 -6,38 -1,0" fill="#00D4FF" opacity="0.9" filter="url(#neonGlow)">
+          <animate attributeName="points" values="-11,0 -6,34 -1,0; -11,0 -6,46 -1,0; -11,0 -6,34 -1,0" dur="0.08s" repeatCount="indefinite"/>
+        </polygon>
+        <polygon points="-9,0 -6,22 -3,0" fill="#FFFFFF">
+          <animate attributeName="points" values="-9,0 -6,20 -3,0; -9,0 -6,28 -3,0; -9,0 -6,20 -3,0" dur="0.07s" repeatCount="indefinite"/>
+        </polygon>
+
+        <!-- Right Nozzle Fire -->
+        <polygon points="1,0 6,38 11,0" fill="#00D4FF" opacity="0.9" filter="url(#neonGlow)">
+          <animate attributeName="points" values="1,0 6,34 11,0; 1,0 6,46 11,0; 1,0 6,34 11,0" dur="0.08s" repeatCount="indefinite"/>
+        </polygon>
+        <polygon points="3,0 6,22 9,0" fill="#FFFFFF">
+          <animate attributeName="points" values="3,0 6,20 9,0; 3,0 6,28 9,0; 3,0 6,20 9,0" dur="0.07s" repeatCount="indefinite"/>
+        </polygon>
+      </g>
+
+      <!-- Twin Heavy Wingtip Railgun Cannons -->
+      <rect x="-42" y="-12" width="3.5" height="24" rx="1.5" fill="#00D4FF" filter="url(#neonGlow)"/>
+      <rect x="38.5" y="-12" width="3.5" height="24" rx="1.5" fill="#00D4FF" filter="url(#neonGlow)"/>
+
+      <!-- Wing Cannon Energy Charge Orbs (Charges up when firing) -->
+      <circle cx="-40.2" cy="-14" r="3.5" fill="#E0F2FE" filter="url(#laserGlow)">
+        <animate attributeName="opacity" values="0.4;0.4;1;1;0.4;0.4" keyTimes="0;0.48;0.51;0.79;0.82;1" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="40.2" cy="-14" r="3.5" fill="#E0F2FE" filter="url(#laserGlow)">
+        <animate attributeName="opacity" values="0.4;0.4;1;1;0.4;0.4" keyTimes="0;0.48;0.51;0.79;0.82;1" dur="16s" repeatCount="indefinite"/>
+      </circle>
+
+      <!-- Swept Stealth Delta Wings (Layered Hull Plates) -->
+      <polygon points="0,-22 -44,20 -16,24 0,28" fill="url(#jetHull)" stroke="#00D4FF" stroke-width="1.8"/>
+      <polygon points="0,-22 44,20 16,24 0,28" fill="url(#jetHull)" stroke="#00D4FF" stroke-width="1.8"/>
+
+      <!-- Cybernetic Wing Seams / Neon Circuit Lines -->
+      <path d="M -8 4 L -36 18" stroke="#38BDF8" stroke-width="1.4" fill="none"/>
+      <path d="M 8 4 L 36 18" stroke="#38BDF8" stroke-width="1.4" fill="none"/>
+      <polygon points="-12,6 -32,18 -18,20" fill="#0284C7" opacity="0.8"/>
+      <polygon points="12,6 32,18 18,20" fill="#0284C7" opacity="0.8"/>
+
+      <!-- Forward Swept Canards -->
+      <polygon points="0,-32 -20,-14 -12,-12 0,-18" fill="#073B61" stroke="#00D4FF" stroke-width="1.2"/>
+      <polygon points="0,-32 20,-14 12,-12 0,-18" fill="#073B61" stroke="#00D4FF" stroke-width="1.2"/>
+
+      <!-- Main Stealth Fuselage -->
+      <polygon points="0,-48 11,24 0,29 -11,24" fill="url(#jetHull)" stroke="#38BDF8" stroke-width="2"/>
+
+      <!-- Center Armor Spine with Neon Illumination -->
+      <polygon points="0,-44 6,18 0,22 -6,18" fill="#0369A1" stroke="#00D4FF" stroke-width="1.2"/>
+
+      <!-- Glowing Cyber Cockpit Canopy (Angular Diamond Glass) -->
+      <polygon points="0,-34 6,-10 0,-4 -6,-10" fill="#E0F2FE" stroke="#00D4FF" stroke-width="1.5" filter="url(#neonGlow)">
+        <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
       </polygon>
 
-      <!-- Right Nozzle Fire -->
-      <polygon points="1,0 6,38 11,0" fill="#00D4FF" opacity="0.9" filter="url(#neonGlow)">
-        <animate attributeName="points" values="1,0 6,34 11,0; 1,0 6,46 11,0; 1,0 6,34 11,0" dur="0.08s" repeatCount="indefinite"/>
-      </polygon>
-      <polygon points="3,0 6,22 9,0" fill="#FFFFFF">
-        <animate attributeName="points" values="3,0 6,20 9,0; 3,0 6,28 9,0; 3,0 6,20 9,0" dur="0.07s" repeatCount="indefinite"/>
-      </polygon>
+      <!-- Cockpit Internal HUD Targeting Line -->
+      <line x1="0" y1="-30" x2="0" y2="-8" stroke="#00D4FF" stroke-width="1.2"/>
+
+      <!-- Twin Vector Tailfins -->
+      <polygon points="-5,14 -14,30 -6,28" fill="#0284C7" stroke="#38BDF8" stroke-width="1"/>
+      <polygon points="5,14 14,30 6,28" fill="#0284C7" stroke="#38BDF8" stroke-width="1"/>
     </g>
-
-    <!-- Twin Heavy Wingtip Railgun Cannons -->
-    <rect x="-42" y="-12" width="3.5" height="24" rx="1.5" fill="#00D4FF" filter="url(#neonGlow)"/>
-    <rect x="38.5" y="-12" width="3.5" height="24" rx="1.5" fill="#00D4FF" filter="url(#neonGlow)"/>
-
-    <!-- Wing Cannon Energy Charge Orbs -->
-    <circle cx="-40.2" cy="-14" r="3.5" fill="#E0F2FE" filter="url(#laserGlow)">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.2s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="40.2" cy="-14" r="3.5" fill="#E0F2FE" filter="url(#laserGlow)">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.2s" repeatCount="indefinite"/>
-    </circle>
-
-    <!-- Swept Stealth Delta Wings (Layered Hull Plates) -->
-    <polygon points="0,-22 -44,20 -16,24 0,28" fill="url(#jetHull)" stroke="#00D4FF" stroke-width="1.8"/>
-    <polygon points="0,-22 44,20 16,24 0,28" fill="url(#jetHull)" stroke="#00D4FF" stroke-width="1.8"/>
-
-    <!-- Cybernetic Wing Seams / Neon Circuit Lines -->
-    <path d="M -8 4 L -36 18" stroke="#38BDF8" stroke-width="1.4" fill="none"/>
-    <path d="M 8 4 L 36 18" stroke="#38BDF8" stroke-width="1.4" fill="none"/>
-    <polygon points="-12,6 -32,18 -18,20" fill="#0284C7" opacity="0.8"/>
-    <polygon points="12,6 32,18 18,20" fill="#0284C7" opacity="0.8"/>
-
-    <!-- Forward Swept Canards -->
-    <polygon points="0,-32 -20,-14 -12,-12 0,-18" fill="#073B61" stroke="#00D4FF" stroke-width="1.2"/>
-    <polygon points="0,-32 20,-14 12,-12 0,-18" fill="#073B61" stroke="#00D4FF" stroke-width="1.2"/>
-
-    <!-- Main Stealth Fuselage -->
-    <polygon points="0,-48 11,24 0,29 -11,24" fill="url(#jetHull)" stroke="#38BDF8" stroke-width="2"/>
-
-    <!-- Center Armor Spine with Neon Illumination -->
-    <polygon points="0,-44 6,18 0,22 -6,18" fill="#0369A1" stroke="#00D4FF" stroke-width="1.2"/>
-
-    <!-- Glowing Cyber Cockpit Canopy (Angular Diamond Glass) -->
-    <polygon points="0,-34 6,-10 0,-4 -6,-10" fill="#E0F2FE" stroke="#00D4FF" stroke-width="1.5" filter="url(#neonGlow)">
-      <animate attributeName="opacity" values="0.8;1;0.8" dur="1.5s" repeatCount="indefinite"/>
-    </polygon>
-
-    <!-- Cockpit Internal HUD Targeting Line -->
-    <line x1="0" y1="-30" x2="0" y2="-8" stroke="#00D4FF" stroke-width="1.2"/>
-
-    <!-- Twin Vector Tailfins -->
-    <polygon points="-5,14 -14,30 -6,28" fill="#0284C7" stroke="#38BDF8" stroke-width="1"/>
-    <polygon points="5,14 14,30 6,28" fill="#0284C7" stroke="#38BDF8" stroke-width="1"/>
   </g>
 </svg>
