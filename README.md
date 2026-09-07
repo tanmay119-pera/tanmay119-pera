@@ -94,15 +94,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14" alt="Python" />
   &nbsp;
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=080C14" alt="C++" />
-  &nbsp;
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14" alt="JavaScript" />
   &nbsp;
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=080C14" alt="HTML5" />
   &nbsp;
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=080C14" alt="CSS3" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,cpp,js,html,css&theme=dark" alt="Languages Icons" />
 </p>
 
 ### 🧰 Developer Tools & Environment
@@ -112,13 +110,11 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080C14" alt="GitHub" />
   &nbsp;
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=080C14" alt="VS Code" />
-  &nbsp;
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=080C14" alt="Linux" />
   &nbsp;
   <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=080C14" alt="Apple" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple,linux&theme=dark" alt="Tools Icons" />
 </p>
 
 ---
