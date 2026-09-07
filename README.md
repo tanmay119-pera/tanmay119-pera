@@ -80,8 +80,6 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 <p align="center">
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=080C14" alt="Scikit-Learn" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=080C14" alt="Hugging Face" />
-  &nbsp;
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=080C14" alt="NumPy" />
   &nbsp;
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=080C14" alt="Pandas" />
@@ -94,7 +92,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ### 🧰 Developer Tools & Environment
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,apple,linux&theme=dark&perline=5" alt="Developer Tools & Environment" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark&perline=4" alt="Developer Tools & Environment" /></a>
 </p>
 
 ---
