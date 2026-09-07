@@ -67,7 +67,7 @@
   <!-- Top Right Stats Capsule -->
   <g transform="translate(615, 24)">
     <rect x="0" y="0" width="202" height="44" rx="8" fill="#081426" stroke="#163152" stroke-width="1.2"/>
-    <text x="16" y="19" fill="#00D4FF" font-size="13.5" font-weight="800">250+ Contributions</text>
+    <text x="16" y="19" fill="#00D4FF" font-size="13.5" font-weight="800">252+ Contributions</text>
     <text x="16" y="34" fill="#64748B" font-size="11" font-weight="600">in 2026 • 6 Repositories Active</text>
     <circle cx="184" cy="22" r="5" fill="#00D4FF" filter="url(#neonGlow)">
       <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite"/>
@@ -96,22 +96,22 @@
     <rect x="102.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="102.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="102.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="102.5" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="102.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="102.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="120.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="120.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="120.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="120.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="120.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="120.0" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
-    <rect x="120.0" y="220.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="120.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="120.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="137.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="137.5" y="132.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="137.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="137.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="137.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="137.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="137.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="137.5" y="220.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="137.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="155.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="155.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="155.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -120,7 +120,7 @@
     <rect x="155.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="155.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="172.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="172.5" y="132.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="172.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="172.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="172.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="172.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -128,12 +128,12 @@
     <rect x="172.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="190.0" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="190.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="190.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="207.5" y="115.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="207.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="207.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="207.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="207.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -144,7 +144,7 @@
     <rect x="225.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="225.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="225.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="225.0" y="185.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="225.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="225.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="225.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="242.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -152,15 +152,15 @@
     <rect x="242.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="242.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="242.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="242.5" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="242.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="242.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="260.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="260.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="260.0" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="260.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="260.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="260.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="260.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="260.0" y="220.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="260.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="277.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="277.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="277.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -170,7 +170,7 @@
     <rect x="277.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="295.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="295.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="295.0" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="295.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="295.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="295.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="295.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -179,7 +179,7 @@
     <rect x="312.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="312.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="312.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="312.5" y="185.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="312.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="312.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="312.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="330.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -190,14 +190,14 @@
     <rect x="330.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="330.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="347.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="347.5" y="132.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="347.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="347.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="347.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="347.5" y="185.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
-    <rect x="347.5" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="347.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="347.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="347.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="365.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="365.0" y="132.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="365.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="365.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="365.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="365.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -223,13 +223,13 @@
     <rect x="417.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="417.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="417.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="417.5" y="220.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
-    <rect x="435.0" y="115.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="417.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="435.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="435.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="435.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="435.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="435.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="435.0" y="202.5" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="435.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="435.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="452.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="452.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -247,25 +247,25 @@
     <rect x="470.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="487.5" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="487.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="487.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="505.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="505.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="505.0" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
-    <rect x="505.0" y="167.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="505.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="505.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="505.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="505.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="505.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="522.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="522.5" y="132.5" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="522.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="522.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="522.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="522.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="522.5" y="202.5" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
-    <rect x="522.5" y="220.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="522.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="522.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="540.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="540.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="540.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -281,47 +281,37 @@
     <rect x="557.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="557.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="575.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="575.0" y="132.5" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
-    <rect x="575.0" y="150.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="0.8" />
-    <rect x="575.0" y="167.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
-    <rect x="575.0" y="185.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
-    <rect x="575.0" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="575.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="575.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="575.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="575.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="575.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="575.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="592.5" y="115.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="0.8" />
+    <rect x="592.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="592.5" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="592.5" y="150.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="592.5" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="592.5" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="592.5" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="592.5" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="592.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="592.5" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="610.0" y="115.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="610.0" y="132.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="610.0" y="150.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
-    <rect x="610.0" y="167.5" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
-    <rect x="610.0" y="185.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
-    </rect>
+    <rect x="610.0" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="610.0" y="132.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="610.0" y="150.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="610.0" y="167.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="610.0" y="185.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
     <rect x="610.0" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
-    <rect x="610.0" y="220.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="627.5" y="115.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="610.0" y="220.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="627.5" y="115.0" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
+    <rect x="627.5" y="132.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
-    <rect x="627.5" y="132.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
-    </rect>
-    <rect x="627.5" y="150.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="627.5" y="150.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
     <rect x="627.5" y="167.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
-    <rect x="627.5" y="185.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="627.5" y="185.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
     <rect x="627.5" y="202.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
@@ -339,37 +329,33 @@
     <rect x="645.0" y="150.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="645.0" y="167.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="645.0" y="167.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
     <rect x="645.0" y="185.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="645.0" y="202.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="645.0" y="202.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="645.0" y="220.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
-    </rect>
-    <rect x="662.5" y="115.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="645.0" y="220.0" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
+    <rect x="662.5" y="115.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="662.5" y="132.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
-    <rect x="662.5" y="132.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="662.5" y="150.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
-    <rect x="662.5" y="150.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="662.5" y="167.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
-    <rect x="662.5" y="167.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
-    </rect>
-    <rect x="662.5" y="185.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="662.5" y="185.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
     <rect x="662.5" y="202.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
-    <rect x="662.5" y="220.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="662.5" y="220.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="0.9s" repeatCount="indefinite" />
     </rect>
     <rect x="680.0" y="115.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
@@ -384,12 +370,8 @@
     <rect x="680.0" y="167.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
-    <rect x="680.0" y="185.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
-    </rect>
-    <rect x="680.0" y="202.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
-      <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
-    </rect>
+    <rect x="680.0" y="185.0" width="13" height="13" rx="3" fill="#0369A1" stroke="#0284C7" stroke-width="0.8" />
+    <rect x="680.0" y="202.5" width="13" height="13" rx="3" fill="#073B61" stroke="#0C4A6E" stroke-width="0.8" />
     <rect x="680.0" y="220.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.2s" repeatCount="indefinite" />
     </rect>
@@ -402,10 +384,10 @@
     <rect x="697.5" y="150.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="697.5" y="167.5" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="697.5" y="167.5" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
-    <rect x="697.5" y="185.0" width="13" height="13" rx="3" fill="#0284C7" stroke="#38BDF8" stroke-width="1.2">
+    <rect x="697.5" y="185.0" width="13" height="13" rx="3" fill="#00D4FF" stroke="#38BDF8" stroke-width="1.2">
       <animate attributeName="opacity" values="0.7;1;0.7" dur="1.5s" repeatCount="indefinite" />
     </rect>
     <rect x="697.5" y="202.5" width="13" height="13" rx="3" fill="#0D1524" stroke="#172338" stroke-width="0.8" />
@@ -425,7 +407,7 @@
 
   <!-- Target Locked HUD -->
   <g transform="translate(660, 260)">
-    <text x="0" y="11" fill="#00D4FF" font-size="11" font-weight="800" letter-spacing="1">⚡ TARGET LOCKED: 250 COMMITS</text>
+    <text x="0" y="11" fill="#00D4FF" font-size="11" font-weight="800" letter-spacing="1">⚡ TARGET LOCKED: 252 COMMITS</text>
   </g>
 
   <!-- ==================== ROTATING HUD TARGET RETICLE ==================== -->
