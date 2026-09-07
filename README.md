@@ -92,7 +92,8 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ### 🧰 Developer Tools & Environment
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark&perline=4" alt="Developer Tools & Environment" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark" height="48" alt="Developer Tools & Environment" /></a>
+  <a href="#"><img src="./dist/antigravity.svg" height="48" alt="Google Antigravity" title="Google Antigravity" /></a>
 </p>
 
 ---
