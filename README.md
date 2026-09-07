@@ -67,8 +67,58 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ## 🛠️ TECH ARSENAL
 
+### 🤖 Autonomous AI & Agentic Stack
 <p align="center">
-  <img src="./dist/tech-arsenal.svg" alt="Tanmay - Tech Arsenal & Autonomous AI Stack" width="100%" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 16px 40px rgba(0, 212, 255, 0.18);" />
+  <img src="https://img.shields.io/badge/OpenAI_API-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="OpenAI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=080C14" alt="LangChain" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14" alt="PyTorch" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=080C14" alt="TensorFlow" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=080C14" alt="Scikit-Learn" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=080C14" alt="Hugging Face" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=080C14" alt="NumPy" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=080C14" alt="Pandas" />
+</p>
+
+### 💻 Core Systems & Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=080C14" alt="C" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&labelColor=080C14" alt="C++" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14" alt="JavaScript" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=080C14" alt="HTML5" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=080C14" alt="CSS3" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,cpp,js,html,css&theme=dark" alt="Languages Icons" />
+</p>
+
+### 🧰 Developer Tools & Environment
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=080C14" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=080C14" alt="GitHub" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=080C14" alt="VS Code" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&labelColor=080C14" alt="Linux" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white&labelColor=080C14" alt="Apple" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple,linux&theme=dark" alt="Tools Icons" />
 </p>
 
 ---
