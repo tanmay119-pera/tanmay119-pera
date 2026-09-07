@@ -67,36 +67,8 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ## 🛠️ TECH ARSENAL
 
-### 🤖 Autonomous AI & Agentic Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="OpenAI" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=080C14" alt="LangChain" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14" alt="PyTorch" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=080C14" alt="TensorFlow" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=080C14" alt="Scikit-Learn" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=080C14" alt="NumPy" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=080C14" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=080C14" alt="Jupyter" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=080C14" alt="Hugging Face" />
-</p>
-
-### 💻 Core Systems & Programming Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css&theme=dark&perline=6" alt="Languages" />
-</p>
-
-### 🧰 Developer Tools & Environment
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,apple&theme=dark&perline=5" alt="Tools" />
+  <img src="./dist/tech-arsenal.svg" alt="Tanmay - Tech Arsenal & Autonomous AI Stack" width="100%" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 16px 40px rgba(0, 212, 255, 0.18);" />
 </p>
 
 ---
