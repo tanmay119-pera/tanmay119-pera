@@ -281,19 +281,8 @@ async function main() {
     <path d="M17 7C11.48 7 7 11.48 7 17c0 4.42 2.87 8.17 6.84 9.5.5.09.68-.22.68-.48 0-.24-.01-1.03-.01-1.87-2.78.6-3.37-1.18-3.37-1.18-.45-1.16-1.11-1.47-1.11-1.47-.91-.62.07-.61.07-.61 1 .07 1.53 1.03 1.53 1.03.89 1.53 2.34 1.09 2.91.83.09-.64.35-1.09.63-1.34-2.22-.25-4.55-1.11-4.55-4.94 0-1.09.39-1.98 1.03-2.68-.1-.25-.45-1.27.1-2.65 0 0 .84-.27 2.75 1.03.8-.22 1.66-.33 2.52-.33.86 0 1.72.11 2.52.33 1.91-1.3 2.75-1.03 2.75-1.03.55 1.38.2 2.4.1 2.65.64.7 1.03 1.59 1.03 2.68 0 3.84-2.34 4.68-4.57 4.93.36.31.68.92.68 1.85 0 1.34-.01 2.41-.01 2.74 0 .26.18.58.69.48 3.97-1.33 6.84-5.08 6.84-9.5 0-5.52-4.48-10-10-10z" fill="#00D4FF"/>
   </g>
 
-  <!-- Header Titles -->
-  <text x="82" y="41" fill="#00D4FF" font-size="21" font-weight="900" letter-spacing="1.8" filter="url(#neonGlow)">CYAN LASER JET GAME</text>
-  <text x="82" y="58" fill="#94A3B8" font-size="12" font-weight="600">Contribution Activity (Last 12 Months • Real-Time Commits)</text>
-
-  <!-- Top Right Stats Capsule -->
-  <g transform="translate(635, 22)">
-    <rect x="0" y="0" width="208" height="44" rx="8" fill="#081426" stroke="#163152" stroke-width="1.2"/>
-    <text x="16" y="19" fill="#00D4FF" font-size="13.5" font-weight="800">${totalContributions} Contributions</text>
-    <text x="16" y="34" fill="#64748B" font-size="11" font-weight="600">in 2026 • 6 Repositories Active</text>
-    <circle cx="190" cy="22" r="5" fill="#00D4FF" filter="url(#neonGlow)">
-      <animate attributeName="opacity" values="0.4;1;0.4" dur="1.2s" repeatCount="indefinite"/>
-    </circle>
-  </g>
+  <!-- Header Heading: CONTRIBUTION BY ME -->
+  <text x="82" y="49" fill="#00D4FF" font-size="22" font-weight="900" letter-spacing="1.8" filter="url(#neonGlow)">CONTRIBUTION BY ME</text>
 
   <!-- ==================== INNER GRID PANEL ==================== -->
   <rect x="26" y="78" width="828" height="200" rx="10" fill="url(#innerGridBg)" stroke="#14243C" stroke-width="1.2"/>
