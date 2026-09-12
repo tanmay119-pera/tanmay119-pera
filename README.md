@@ -2,7 +2,7 @@
 <!-- HERO BANNER (NEON LIGHTNING BLUE & OBSIDIAN BLACK)                         -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & AI Builder Banner" width="100%" style="max-width: 100%; height: auto; border-radius: 14px; box-shadow: 0 16px 40px rgba(0, 212, 255, 0.25);" />
+  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & AI Builder Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING SVG BANNER (CYBERNETIC NEON BLUE) -->
@@ -14,9 +14,12 @@
 
 <!-- QUICK IDENTITY BADGES -->
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Role-Agentic_AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="Agentic AI Developer" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Persona-Student_%26_AI_Builder-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=080C14" alt="Student & AI Builder" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=080C14" alt="India" /></a>
+  <img src="https://img.shields.io/badge/Role-Agentic_AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="Agentic AI Developer" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Persona-Student_%26_AI_Builder-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=080C14" alt="Student & AI Builder" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=080C14" alt="India" />
+  &nbsp;
   <a href="mailto:tanmay.w119@gmail.com"><img src="https://img.shields.io/badge/Email-tanmay.w119%40gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14" alt="Email" /></a>
 </p>
 
@@ -53,10 +56,10 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ### 💡 Key Project Builds
 
-- 🏎️ [**BMW i7 & FoodDrop**](https://github.com/tanmay119-pera/WEB-PROJECTS) — Production web apps with fluid UX & delivery engine
-- 🛡️ [**C Systems Suite**](https://github.com/tanmay119-pera/C-PROGRAMMING) — 10 low-level builds: memory safety, pointers & sockets
-- 🐍 [**Python Automation**](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) — 10 production pipelines, algorithms & automation
-- ⚡ [**Friday Framework**](https://github.com/tanmay119-pera/CSS-PROGRAMMING) — Zero-dependency modular UI styling system
+- 🏎️ [**BMW i7 & FoodDrop**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) — Production web apps with fluid UX & delivery engine
+- 🛡️ [**C Systems Suite**](https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS) — 12 chapters & 10 builds: memory safety, pointers & sockets
+- 🐍 [**Python Automation**](https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS) — 10 production pipelines, algorithms & automation
+- ⚡ [**Friday Framework**](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS) — Zero-dependency modular UI styling system
 
 </td>
 </tr>
@@ -113,11 +116,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 | Repository | Focus & Domain | Highlights & Scale | Status |
 | :--- | :--- | :--- | :---: |
-| [**`C-PROGRAMMING`**](https://github.com/tanmay119-pera/C-PROGRAMMING) | Low-Level Systems | 12 Deep Chapters • 10 Production Projects (Memory Safety, Pointers, Sockets) | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`PYTHON-A-TO-Z`**](https://github.com/tanmay119-pera/PYTHON-A-TO-Z) | Core to Advanced Python | 10 Core Chapters • 10 Production Projects • Data Structures & Automation | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`CSS-PROGRAMMING`**](https://github.com/tanmay119-pera/CSS-PROGRAMMING) | Modern Web Architecture | 5 Master Chapters • 7 Practice Sets (A-G) • Friday Framework Capstone | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`WEB-PROJECTS`**](https://github.com/tanmay119-pera/WEB-PROJECTS) | Production Frontend Showcase | BMW i7 Luxury Experience & FoodDrop Multi-Vendor Delivery Platform | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`HTML-PROGRAMMING`**](https://github.com/tanmay119-pera/HTML-PROGRAMMING.git) | Web Structure & Semantics | 5 In-Depth Chapters • Semantic Layouts • Form Architectures | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`C-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS) | Low-Level Systems | 12 Deep Chapters • 10 Production Projects (Memory Safety, Pointers, Sockets) | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`PYTHON-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS) | Core to Advanced Python | 10 Core Chapters • 10 Production Projects • Data Structures & Automation | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`WEB-DEVELOPMENT-PROJECTS`**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) | Production Frontend Showcase | BMW i7 Luxury Experience & FoodDrop Multi-Vendor Delivery Platform | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`CSS-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS) | Modern Web Architecture | 5 Master Chapters • 7 Practice Sets (A-G) • Friday Framework Capstone | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`HTML-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/HTML-PROGRAMMING-FUNDAMENTALS) | Web Structure & Semantics | 5 In-Depth Chapters • Semantic Layouts • Form Architectures | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
+| [**`JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS) | Scripting & DOM Systems | Modern ES6+, Event Architecture, Async/Await Pipelines | ![Active](https://img.shields.io/badge/Active-38BDF8?style=flat-square) |
+| [**`C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL`**](https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL) | High-Performance OOP | Memory Management, OOP Blueprints, STL & Systems Code | ![Active](https://img.shields.io/badge/Active-38BDF8?style=flat-square) |
 
 ---
 
@@ -165,7 +170,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 </p>
 
 <p align="center">
-  <img src="./dist/github-jet.svg" alt="Cyan Laser Jet Combat Heatmap" width="100%" style="max-width: 100%; height: auto; border-radius: 12px; box-shadow: 0 12px 32px rgba(0, 212, 255, 0.15);" />
+  <img src="./dist/github-jet.svg" alt="Cyan Laser Jet Combat Heatmap" width="100%" />
 </p>
 
 <p align="center">
@@ -173,7 +178,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   &nbsp;
   <img src="https://img.shields.io/badge/SEPTEMBER%20SURGE-64%20COMMITS-38BDF8?style=for-the-badge&logo=git&logoColor=white&labelColor=080C14" />
   &nbsp;
-  <img src="https://img.shields.io/badge/REPOSITORIES-6%20ACTIVE-00D4FF?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=080C14" />
+  <img src="https://img.shields.io/badge/REPOSITORIES-8%20ACTIVE-00D4FF?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=080C14" />
 </p>
 
 ---
