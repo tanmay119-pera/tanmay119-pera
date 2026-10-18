@@ -345,6 +345,16 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | 📅 **Meetup & Workshop Logger** | File I/O (<code>fopen</code>, <code>fputs</code>, <code>fgets</code>), record append/truncate | Persistent disk-backed logger with keyword retrieval and formatted CLI tables. |
 | 💳 **Financial Credit & Amortization Engine** | Floating-point arithmetic, structured CLI formatting, math library | Detailed loan EMI amortization schedule generator with interest tracking. |
 
+### 🐍 4. Python Production Automation & CLI Suites
+
+<p>
+  <i>Selected from the 10 production projects in the <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS">PYTHON-PROGRAMMING-FUNDAMENTALS</a> repository:</i>
+</p>
+
+| Project | Python Pipeline Architecture | Key Deliverable |
+| :--- | :--- | :--- |
+| 📧 **Automated Bulk Email Dispatcher** | <code>smtplib</code>, <code>email.mime</code>, CSV stream parsing, error logging | Production pipeline dispatching personalized templated emails with audit logs. |
+
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
