@@ -307,6 +307,15 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - **Impact:** Eliminates keyboard bottlenecks for developer workflows and real-time system monitoring.
 
     </td>
+    <td width="50%" valign="top">
+
+#### 🇮🇳 Bharat-Setu AI (भारत सेतु)
+*Sovereign Multilingual Citizen Feedback & Public Intelligence*
+
+- **Tech Stack:** `Multilingual NLP` • `FastAPI` • `Agentic RAG` • `Vector Search`
+- **Architecture:** High-throughput citizen intelligence platform enabling users to file civic inquiries and infrastructure feedback across 12+ Indian regional languages.
+
+    </td>
   </tr>
 </table>
 
