@@ -121,6 +121,24 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=c" width="20" height="20" alt="C" />
+        <br/>
+        <strong><a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS">C Systems Suite</a></strong>
+      </td>
+      <td>
+        <code>12 Chapters</code><br/>
+        <code>10 Projects</code><br/>
+        <img src="https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square" alt="Completed" />
+      </td>
+      <td>
+        Close-to-the-metal programming from fundamental syntax to advanced memory safety. Covers explicit stack vs. heap allocation, pointer arithmetic, dynamic memory allocation (<code>malloc</code>/<code>realloc</code>/<code>free</code>), custom struct vectors, file stream sanitization, and leak profiling with Valgrind.
+      </td>
+      <td>
+        <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
