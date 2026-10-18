@@ -254,6 +254,9 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - **Tech Stack:** `React 18` • `Three.js` • `Tailwind CSS` • `Framer Motion` • `WebGL`
 - **Key Features:**
   - Real-time 3D vehicle canvas with 360° orbit camera controls and dynamic lighting.
+  - Interactive exterior color customizer with physically-based metallic reflections.
+  - Executive lounge interior explorer featuring ambient LED cockpit switching.
+  - Spatial audio engine reproducing electric acceleration and executive soundscapes.
 - **Repository:** [`WEB-DEVELOPMENT-PROJECTS`](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
 
     </td>
