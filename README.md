@@ -24,7 +24,6 @@
 </p>
 
 ---
-
 ## ⚡ ABOUT ME
 
 <table>
@@ -74,7 +73,6 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 </p>
 
 ---
-
 ## 🛠️ TECH ARSENAL
 
 ### 🤖 Autonomous AI & Agentic Stack
@@ -107,61 +105,31 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 </p>
 
 ---
-
-## 🏆 CURATED OPEN-SOURCE REPOSITORIES
+## 📚 SECTION 1: CODING LANGUAGE SETS I MADE
 
 <p align="center">
-  <b>Production-grade learning masterclasses, systems architecture, and live projects created by Tanmay:</b>
+  <b>Comprehensive, production-grade learning curricula, architectural masterclasses, and code sets engineered by Tanmay:</b>
 </p>
 
-| Repository | Focus & Domain | Highlights & Scale | Status |
-| :--- | :--- | :--- | :---: |
-| [**`C-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS) | Low-Level Systems | 12 Deep Chapters • 10 Production Projects (Memory Safety, Pointers, Sockets) | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`PYTHON-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS) | Core to Advanced Python | 10 Core Chapters • 10 Production Projects • Data Structures & Automation | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`WEB-DEVELOPMENT-PROJECTS`**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) | Production Frontend Showcase | BMW i7 Luxury Experience & FoodDrop Multi-Vendor Delivery Platform | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`CSS-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS) | Modern Web Architecture | 5 Master Chapters • 7 Practice Sets (A-G) • Friday Framework Capstone | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`HTML-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/HTML-PROGRAMMING-FUNDAMENTALS) | Web Structure & Semantics | 5 In-Depth Chapters • Semantic Layouts • Form Architectures | ![Completed](https://img.shields.io/badge/Completed-00D4FF?style=flat-square) |
-| [**`JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS`**](https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS) | Scripting & DOM Systems | Modern ES6+, Event Architecture, Async/Await Pipelines | ![Active](https://img.shields.io/badge/Active-38BDF8?style=flat-square) |
-| [**`C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL`**](https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL) | High-Performance OOP | Memory Management, OOP Blueprints, STL & Systems Code | ![Active](https://img.shields.io/badge/Active-38BDF8?style=flat-square) |
+<table>
+  <thead>
+    <tr>
+      <th width="22%">Language Curriculum</th>
+      <th width="18%">Scope & Scale</th>
+      <th width="45%">Core Architectural Concepts Mastered</th>
+      <th width="15%">Access</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
 
 ---
-
-## 🎯 AGENTIC AI & SYSTEMS ROADMAP
+## 🚀 SECTION 2: PROJECTS I MADE
 
 <p align="center">
-
-![Phase 1](https://img.shields.io/badge/PHASE%201-C%20%2B%20PYTHON%20SYSTEMS%20FOUNDATIONS-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-00D4FF?style=for-the-badge)
-
+  <b>Production applications, 3D WebGL experiences, autonomous AI agents, and systems-level tools engineered by Tanmay:</b>
 </p>
-<p align="center">
-
-![Phase 2](https://img.shields.io/badge/PHASE%202-INTERACTIVE%20WEB%20ENGINEERING%20(CSS3%2C%20JS%2C%20DOM)-38BDF8?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-38BDF8?style=for-the-badge)
-
-</p>
-<p align="center">
-
-![Phase 3](https://img.shields.io/badge/PHASE%203-CLASSICAL%20ML%20%26%20DEEP%20NEURAL%20NETWORKS-00D4FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-00D4FF?style=for-the-badge)
-
-</p>
-<p align="center">
-
-![Phase 4](https://img.shields.io/badge/PHASE%204-AUTONOMOUS%20MULTI--AGENT%20ORCHESTRATION-38BDF8?style=for-the-badge&logo=openai&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-38BDF8?style=for-the-badge)
-
-</p>
-<p align="center">
-
-![Phase 5](https://img.shields.io/badge/PHASE%205-AGENTIC%20MLOPS%20%26%20AUTONOMOUS%20SWARMS-00D4FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%8F%B3-UPCOMING-00D4FF?style=for-the-badge)
-
-</p>
-
----
-
----
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
