@@ -260,6 +260,17 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - **Repository:** [`WEB-DEVELOPMENT-PROJECTS`](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
 
     </td>
+    <td width="50%" valign="top">
+
+#### 🍔 [FoodDrop — On-Demand Food Delivery Platform](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
+*High-Conversion Responsive Food Commerce Platform*
+
+- **Tech Stack:** `HTML5` • `CSS3 Grid & Flexbox` • `Vanilla JavaScript ES6+`
+- **Key Features:**
+  - Dynamic multi-vendor restaurant directory with real-time cuisine and diet filtering.
+- **Repository:** [`WEB-DEVELOPMENT-PROJECTS`](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
+
+    </td>
   </tr>
 </table>
 
