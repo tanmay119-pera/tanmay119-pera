@@ -53,12 +53,12 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | 🛠️ | **Building** zero-dependency high-throughput web dashboards |
 | 🌐 | **Deploying** open-source code with real-world impact |
 
-### 💡 Key Project Builds
+### 💡 Highlights at a Glance
 
-- 🏎️ [**BMW i7 & FoodDrop**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) — Production web apps with fluid UX & delivery engine
-- 🛡️ [**C Systems Suite**](https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS) — 12 chapters & 10 builds: memory safety, pointers & sockets
-- 🐍 [**Python Automation**](https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS) — 10 production pipelines, algorithms & automation
-- ⚡ [**Friday Framework**](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS) — Zero-dependency modular UI styling system
+- 🏎️ **Web & 3D:** BMW i7 WebGL Experience & FoodDrop Delivery Platform
+- 🛡️ **Systems:** 12-Chapter C Suite with 10 Memory-Safe Production Builds
+- 🐍 **Automation:** 10-Chapter Python Curriculum with 10 Production Pipelines
+- ⚡ **Framework:** Friday Framework Zero-Dependency Obsidian Dashboard
 
 </td>
 </tr>
