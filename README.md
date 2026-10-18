@@ -314,6 +314,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 - **Tech Stack:** `Multilingual NLP` • `FastAPI` • `Agentic RAG` • `Vector Search`
 - **Architecture:** High-throughput citizen intelligence platform enabling users to file civic inquiries and infrastructure feedback across 12+ Indian regional languages.
+- **Impact:** Automatic intent extraction, grievance classification, and routing to respective administrative departments.
 
     </td>
   </tr>
