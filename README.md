@@ -214,6 +214,24 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <a href="https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=cpp" width="20" height="20" alt="C++" />
+        <br/>
+        <strong><a href="https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL">C++ & OOP</a></strong>
+      </td>
+      <td>
+        <code>OOP Blueprints</code><br/>
+        <code>STL & Systems</code><br/>
+        <img src="https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square" alt="Active" />
+      </td>
+      <td>
+        High-performance Object-Oriented Programming and systems development. Explores memory models, constructors/destructors, operator overloading, inheritance, runtime polymorphism with virtual tables (vtables), and standard template library (STL) containers and algorithms.
+      </td>
+      <td>
+        <a href="https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL"><img src="https://img.shields.io/badge/View_Repo-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
