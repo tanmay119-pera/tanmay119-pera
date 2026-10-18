@@ -275,6 +275,19 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+#### ⚡ [Friday Framework — The Anti-Framework Cloud Admin Dashboard](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS)
+*Zero-Dependency High-Throughput Cloud Telemetry Dashboard*
+
+- **Tech Stack:** `Semantic HTML5` • `CSS3 Variables & Grid` • `Vanilla JavaScript`
+- **Key Features:**
+  - Built from first principles without heavy node_modules or CSS frameworks — 100% native execution.
+- **Repository:** [`CSS-PROGRAMMING-FUNDAMENTALS`](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS)
+
+    </td>
+  </tr>
 </table>
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
