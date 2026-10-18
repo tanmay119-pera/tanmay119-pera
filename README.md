@@ -158,6 +158,25 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=css" width="20" height="20" alt="CSS" />
+        <br/>
+        <strong><a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS">Modern CSS Systems</a></strong>
+      </td>
+      <td>
+        <code>5 Chapters</code><br/>
+        <code>7 Practice Sets</code><br/>
+        <code>Capstone Build</code><br/>
+        <img src="https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square" alt="Completed" />
+      </td>
+      <td>
+        Engineering modern, responsive web interfaces without bloated frameworks. Comprehensive mastery of the CSS Box Model, Flexbox layouts, 2-dimensional CSS Grid, responsive media queries, CSS variables (custom properties), and glassmorphism styling culminate in the Friday Framework capstone.
+      </td>
+      <td>
+        <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
