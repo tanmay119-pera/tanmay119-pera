@@ -245,6 +245,19 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 ### 🌐 1. Full-Stack & Modern Web Experiences
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🏎️ [The New BMW i7 & 7 Series — 3D Web Experience](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
+*Interactive 3D WebGL Ultra-Luxury Automotive Showcase*
+
+- **Tech Stack:** `React 18` • `Three.js` • `Tailwind CSS` • `Framer Motion` • `WebGL`
+- **Key Features:**
+  - Real-time 3D vehicle canvas with 360° orbit camera controls and dynamic lighting.
+- **Repository:** [`WEB-DEVELOPMENT-PROJECTS`](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
+
+    </td>
+  </tr>
 </table>
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
