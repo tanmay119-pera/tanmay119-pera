@@ -242,6 +242,11 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <b>Production applications, 3D WebGL experiences, autonomous AI agents, and systems-level tools engineered by Tanmay:</b>
 </p>
 
+### 🌐 1. Full-Stack & Modern Web Experiences
+
+<table>
+</table>
+
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
