@@ -296,6 +296,18 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 ### 🤖 2. Autonomous AI & Real-Time Intelligence
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+
+#### 🎙️ FORGE — Voice AI Co-Pilot
+*Autonomous Conversational Voice Agent on Agora SD-RTN*
+
+- **Tech Stack:** `Agora SD-RTN` • `RTC Audio Streams` • `Gemini Multimodal Live API` • `WebSockets`
+- **Architecture:** Low-latency bi-directional speech-to-speech AI co-pilot capable of fluid voice conversations with sub-second response times.
+- **Impact:** Eliminates keyboard bottlenecks for developer workflows and real-time system monitoring.
+
+    </td>
+  </tr>
 </table>
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
