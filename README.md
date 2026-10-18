@@ -340,6 +340,10 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | Project | Core Systems Architecture | Key Deliverable |
 | :--- | :--- | :--- |
 | 📋 **Dynamic Task Board & Heap Profiler** | Dynamic Memory Allocation (<code>malloc</code>, <code>realloc</code>, <code>free</code>), pointer arithmetic | Zero-leak dynamic heap array with live byte-level RAM allocation tracking. |
+| 🎓 **Student Profile Manager & Vector DB** | Custom heterogeneous structs, contiguous array resizing, <code>qsort()</code> | Auto-scaling database with multi-key sorting and ASCII ID badge generation. |
+| 👥 **Community Roster & Substring Indexer** | Struct encapsulation, <code>&lt;string.h&gt;</code> substring algorithms (<code>strstr()</code>) | Search engine with defensive buffer sanitization and capacity guards. |
+| 📅 **Meetup & Workshop Logger** | File I/O (<code>fopen</code>, <code>fputs</code>, <code>fgets</code>), record append/truncate | Persistent disk-backed logger with keyword retrieval and formatted CLI tables. |
+| 💳 **Financial Credit & Amortization Engine** | Floating-point arithmetic, structured CLI formatting, math library | Detailed loan EMI amortization schedule generator with interest tracking. |
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
