@@ -331,6 +331,16 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   </tr>
 </table>
 
+### ⚙️ 3. Low-Level Systems Projects (Built in C99/C11)
+
+<p>
+  <i>Selected from the 10 production projects in the <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS">C-PROGRAMMING-FUNDAMENTALS</a> repository:</i>
+</p>
+
+| Project | Core Systems Architecture | Key Deliverable |
+| :--- | :--- | :--- |
+| 📋 **Dynamic Task Board & Heap Profiler** | Dynamic Memory Allocation (<code>malloc</code>, <code>realloc</code>, <code>free</code>), pointer arithmetic | Zero-leak dynamic heap array with live byte-level RAM allocation tracking. |
+
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
