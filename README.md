@@ -268,6 +268,9 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - **Tech Stack:** `HTML5` • `CSS3 Grid & Flexbox` • `Vanilla JavaScript ES6+`
 - **Key Features:**
   - Dynamic multi-vendor restaurant directory with real-time cuisine and diet filtering.
+  - Interactive shopping cart with live price recalculation, delivery fee formulas, and item counters.
+  - Fluid mobile-first responsive checkout interface with defensive form input verification.
+  - Zero third-party runtime frameworks for lightning-fast first contentful paint.
 - **Repository:** [`WEB-DEVELOPMENT-PROJECTS`](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS)
 
     </td>
