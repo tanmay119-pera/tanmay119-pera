@@ -161,24 +161,39 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ---
 
-## 🏆 ACTIVITY & CONTRIBUTION GRAPH
+---
+
+## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION-CYAN%20INTERCEPTOR%20COMBAT%20LOCKED-00D4FF?style=for-the-badge&logo=spacex&logoColor=black&labelColor=080C14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/TRAJECTORY-EXPONENTIAL%20GROWTH-38BDF8?style=for-the-badge&labelColor=080C14" />
+
+![Phase 1](https://img.shields.io/badge/PHASE%201-C%20%2B%20PYTHON%20SYSTEMS%20FOUNDATIONS-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-00D4FF?style=for-the-badge)
+
 </p>
-
 <p align="center">
-  <img src="./dist/github-jet.svg" alt="Cyan Laser Jet Combat Heatmap" width="100%" />
+
+![Phase 2](https://img.shields.io/badge/PHASE%202-INTERACTIVE%20WEB%20ENGINEERING%20(CSS3%2C%20JS%2C%20DOM)-38BDF8?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-38BDF8?style=for-the-badge)
+
 </p>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/CONTRIBUTIONS-250%2B%20IN%202026-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SEPTEMBER%20SURGE-64%20COMMITS-38BDF8?style=for-the-badge&logo=git&logoColor=white&labelColor=080C14" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REPOSITORIES-8%20ACTIVE-00D4FF?style=for-the-badge&logo=codefactor&logoColor=black&labelColor=080C14" />
+
+![Phase 3](https://img.shields.io/badge/PHASE%203-CLASSICAL%20ML%20%26%20DEEP%20NEURAL%20NETWORKS-00D4FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-00D4FF?style=for-the-badge)
+
+</p>
+<p align="center">
+
+![Phase 4](https://img.shields.io/badge/PHASE%204-AUTONOMOUS%20MULTI--AGENT%20ORCHESTRATION-38BDF8?style=for-the-badge&logo=openai&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-38BDF8?style=for-the-badge)
+
+</p>
+<p align="center">
+
+![Phase 5](https://img.shields.io/badge/PHASE%205-AGENTIC%20MLOPS%20%26%20AUTONOMOUS%20SWARMS-00D4FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=080C14)
+![Status](https://img.shields.io/badge/%E2%8F%B3-UPCOMING-00D4FF?style=for-the-badge)
+
 </p>
 
 ---
