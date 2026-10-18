@@ -318,6 +318,17 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+
+#### 🛡️ Cipher AI — Real-Time Transaction Monitoring & Fraud Detection
+*AI-Powered Anomaly Intelligence for Financial Infrastructure*
+
+- **Tech Stack:** `Next.js` • `TypeScript` • `Anomaly Detection Algorithms` • `Financial Graph Engine`
+- **Architecture:** Scans streaming transaction ledgers to flag high-risk transfers, synthetic identities, and layering patterns in financial data. Features real-time risk score heatmaps and audit trails.
+
+    </td>
+  </tr>
 </table>
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
