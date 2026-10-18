@@ -354,6 +354,10 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | Project | Python Pipeline Architecture | Key Deliverable |
 | :--- | :--- | :--- |
 | 📧 **Automated Bulk Email Dispatcher** | <code>smtplib</code>, <code>email.mime</code>, CSV stream parsing, error logging | Production pipeline dispatching personalized templated emails with audit logs. |
+| 💰 **Personal Finance & Expense Tracker** | File persistence (JSON/CSV), datetime analytics, transaction tagging | CLI budget tracker with monthly savings calculations and expense categorization. |
+| 🌲 **Recursive File-System Tree Explorer** | Recursive algorithms, <code>os</code>/<code>pathlib</code>, byte formatting | High-speed directory tree visualizer with deep size aggregation. |
+| 📱 **OOP Contact Directory** | Object-Oriented classes, encapsulation, search & validation | Clean CLI contact manager featuring search indexing and validation rules. |
+| ⛅ **Live Weather Checker Pipeline** | HTTP request simulation, JSON data parsing, CLI dashboards | Real-time weather and temperature data fetcher with clean CLI reports. |
 
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
