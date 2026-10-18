@@ -196,6 +196,24 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <a href="https://github.com/tanmay119-pera/HTML-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=js" width="20" height="20" alt="JavaScript" />
+        <br/>
+        <strong><a href="https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS">JavaScript Core</a></strong>
+      </td>
+      <td>
+        <code>ES6+ Modules</code><br/>
+        <code>Async Flow</code><br/>
+        <img src="https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square" alt="Active" />
+      </td>
+      <td>
+        Modern JavaScript from fundamentals to event-driven programming. Deep dive into execution contexts, closures, higher-order array methods (<code>map</code>, <code>filter</code>, <code>reduce</code>), DOM element traversal, event bubbling/delegation, and asynchronous pipelines (Promises, async/await, Fetch API).
+      </td>
+      <td>
+        <a href="https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
