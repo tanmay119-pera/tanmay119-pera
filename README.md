@@ -359,6 +359,12 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | 📱 **OOP Contact Directory** | Object-Oriented classes, encapsulation, search & validation | Clean CLI contact manager featuring search indexing and validation rules. |
 | ⛅ **Live Weather Checker Pipeline** | HTTP request simulation, JSON data parsing, CLI dashboards | Real-time weather and temperature data fetcher with clean CLI reports. |
 
+### 🌍 5. Civic & Environmental Impact Projects
+
+- 🤝 **KindLink — Delhi-NCR Food Rescue & Distribution Network:** A community platform coordinating surplus food pickups from commercial kitchens and events to deliver directly to local shelters, reducing food waste and hunger.
+- 🍃 **CERA — CleanAir & Urban Resilience Dashboard:** An open-source civic urban dashboard combining hyper-local air quality index (AQI) monitoring with coordinated carpooling routes to reduce vehicle emissions.
+
+---
 ## 🎯 AGENTIC AI & SYSTEMS ROADMAP
 
 <p align="center">
