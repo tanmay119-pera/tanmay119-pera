@@ -284,6 +284,9 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - **Tech Stack:** `Semantic HTML5` • `CSS3 Variables & Grid` • `Vanilla JavaScript`
 - **Key Features:**
   - Built from first principles without heavy node_modules or CSS frameworks — 100% native execution.
+  - Real-time cloud cluster telemetry monitoring 24 active shards across Indian data zones.
+  - Dark-mode obsidian matrix styling with pure CSS glassmorphism and sub-millisecond initial paint.
+  - Built-in keyboard shortcuts for power-user operational navigation.
 - **Repository:** [`CSS-PROGRAMMING-FUNDAMENTALS`](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS)
 
     </td>
