@@ -302,7 +302,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <tr>
     <td width="50%" valign="top">
 
-#### 🎙️ FORGE — Voice AI Co-Pilot
+#### 🎙️ FORGE — Low-Latency Autonomous Voice AI Co-Pilot
 *Autonomous Conversational Voice Agent on Agora SD-RTN*
 
 - **Tech Stack:** `Agora SD-RTN` • `RTC Audio Streams` • `Gemini Multimodal Live API` • `WebSockets`
