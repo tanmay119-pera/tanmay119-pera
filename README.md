@@ -50,7 +50,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | :---: | :--- |
 | 🤖 | **Architecting** autonomous multi-agent loops & task runners |
 | 🎓 | **Undergraduate Student** exploring systems & AI algorithms |
-| ⚡ | **Maintaining** production-grade C, Python, CSS & Web repositories |
+| ⚡ | **Maintaining** production-grade C, Python, CSS & Web architectures |
 | 🛠️ | **Building** zero-dependency high-throughput web dashboards |
 | 🌐 | **Deploying** open-source code with real-world impact |
 
