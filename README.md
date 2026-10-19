@@ -190,13 +190,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <code>5 Chapters</code><br/>
         <code>Notes + SEO</code><br/>
         <code>2 Projects</code><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square" alt="Completed" />
+        <img src="https://img.shields.io/badge/Status-Completed-D97706?style=flat-square" alt="Completed" />
       </td>
       <td>
         The definitive guide to modern semantic web markup. Covers document tree architecture, accessible semantic containers (<code>&lt;article&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;dialog&gt;</code>), defensive form controls with client-side validation, web accessibility (a11y), and OpenGraph SEO metadata.
       </td>
       <td>
-        <a href="https://github.com/tanmay119-pera/HTML-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+        <a href="https://github.com/tanmay119-pera/HTML-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-D97706?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="View Repo" /></a>
       </td>
     </tr>
     <tr>
