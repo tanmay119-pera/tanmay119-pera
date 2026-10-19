@@ -2,10 +2,10 @@
 <!-- HERO BANNER (WARM LIGHT CAFÉ AMBER & DARK ESPRESSO WALNUT)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & AI Builder Banner" width="100%" />
+  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & Systems Architect | Warm Café Ambient Banner" width="100%" />
 </p>
 
-<!-- DYNAMIC TYPING SVG BANNER (CYBERNETIC NEON BLUE) -->
+<!-- DYNAMIC TYPING SVG BANNER (WARM AMBER & GOLDEN GLOW) -->
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&repeat=true&width=880&lines=%E2%9A%A1+AGENTIC+AI+DEVELOPER+%E2%80%A2+SYSTEMS+ARCHITECT;%F0%9F%8E%93+STUDENT+%26+AUTONOMOUS+AI+BUILDER;%F0%9F%A4%96+ORCHESTRATING+MULTI-AGENT+AI+WORKFLOWS;%F0%9F%9A%80+FROM+LOW-LEVEL+C+%26+PYTHON+TO+PRODUCTION+SYSTEMS" alt="Typing Banner" />
