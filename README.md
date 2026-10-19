@@ -426,5 +426,5 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080C14,50:00D4FF,100:38BDF8&height=180&section=footer&text=%E2%9A%A1%20BUILDING%20THE%20FUTURE%20OF%20AGENTIC%20AI%20%E2%9A%A1&fontSize=22&fontAlignY=65&fontColor=FFFFFF&desc=Engineered%20with%20precision%20by%20Tanmay%20(Adesh%20Srivastava)&descSize=13&descAlignY=82&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C130D,50:F59E0B,100:F97316&height=180&section=footer&text=%E2%9A%A1%20BUILDING%20THE%20FUTURE%20OF%20AGENTIC%20AI%20%E2%9A%A1&fontSize=22&fontAlignY=65&fontColor=FFFFFF&desc=Engineered%20with%20precision%20by%20Tanmay%20(Adesh%20Srivastava)&descSize=13&descAlignY=82&descAlign=50&animation=fadeIn" width="100%" />
 </p>
