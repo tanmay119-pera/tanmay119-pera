@@ -82,16 +82,16 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   &nbsp;
   <img src="https://img.shields.io/badge/LangChain-F97316?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1C130D" alt="LangChain" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1C130D" alt="PyTorch" />
   &nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=080C14" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=1C130D" alt="TensorFlow" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=080C14" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=1C130D" alt="Scikit-Learn" />
   &nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=080C14" alt="NumPy" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=1C130D" alt="NumPy" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=080C14" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=1C130D" alt="Pandas" />
 </p>
 
 ### 💻 Core Systems & Programming Languages
