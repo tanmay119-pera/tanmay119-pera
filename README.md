@@ -2,7 +2,7 @@
 <!-- HERO BANNER (WARM LIGHT CAFÉ AMBER & DARK ESPRESSO WALNUT)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
-  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & Systems Architect | Warm Café Ambient Banner" width="100%" />
+  <img src="./banner.png" alt="Tanmay - Agentic AI Developer & Systems Architect | Warm Golden Crystal & AI Neural Pattern Banner" width="100%" />
 </p>
 
 <!-- DYNAMIC TYPING SVG BANNER (WARM AMBER & GOLDEN GLOW) -->
