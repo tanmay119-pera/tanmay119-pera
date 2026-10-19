@@ -281,7 +281,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <tr>
     <td colspan="2" valign="top">
 
-#### ⚡ [Friday Framework — The Anti-Framework Cloud Admin Dashboard](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS)
+#### ☕ [Friday Framework — Zero-Dependency Warm Obsidian Cloud Dashboard](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS)
 *Zero-Dependency High-Throughput Cloud Telemetry Dashboard*
 
 - **Tech Stack:** `Semantic HTML5` • `CSS3 Variables & Grid` • `Vanilla JavaScript`
