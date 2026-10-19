@@ -97,6 +97,8 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 ### 💻 Core Systems & Programming Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,cpp,js,html,css&theme=dark&perline=6" alt="Core Systems & Programming Languages" />
+  <br/>
+  <img src="https://img.shields.io/badge/Environment-Warm_Studio_%7C_Unix-F59E0B?style=flat-square&labelColor=1C130D" />
 </p>
 
 ### 🧰 Developer Tools & Environment
