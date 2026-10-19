@@ -208,13 +208,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
       <td>
         <code>ES6+ Modules</code><br/>
         <code>Async Flow</code><br/>
-        <img src="https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square" alt="Active" />
+        <img src="https://img.shields.io/badge/Status-Active-F59E0B?style=flat-square" alt="Active" />
       </td>
       <td>
         Modern JavaScript from fundamentals to event-driven programming. Deep dive into execution contexts, closures, higher-order array methods (<code>map</code>, <code>filter</code>, <code>reduce</code>), DOM element traversal, event bubbling/delegation, and asynchronous pipelines (Promises, async/await, Fetch API).
       </td>
       <td>
-        <a href="https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+        <a href="https://github.com/tanmay119-pera/JAVA.SCRIPT-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="View Repo" /></a>
       </td>
     </tr>
     <tr>
