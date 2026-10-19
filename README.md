@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- HERO BANNER (NEON LIGHTNING BLUE & OBSIDIAN BLACK)                         -->
+<!-- HERO BANNER (WARM LIGHT CAFÉ AMBER & DARK ESPRESSO WALNUT)                 -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <p align="center">
   <img src="./banner.png" alt="Tanmay - Agentic AI Developer & AI Builder Banner" width="100%" />
