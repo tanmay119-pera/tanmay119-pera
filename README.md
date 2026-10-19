@@ -65,11 +65,11 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 </table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" />
+  <img src="https://img.shields.io/badge/GITHUB-tanmay119--pera-F59E0B?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI_%26_SYSTEMS-00D4FF?style=for-the-badge&labelColor=080C14" />
+  <img src="https://img.shields.io/badge/FOCUS-AGENTIC_AI_%26_SYSTEMS-F97316?style=for-the-badge&labelColor=1C130D" />
   &nbsp;
-  <img src="https://img.shields.io/badge/PHILOSOPHY-BUILD_FIRST_PRINCIPLES-38BDF8?style=for-the-badge&labelColor=080C14" />
+  <img src="https://img.shields.io/badge/PHILOSOPHY-BUILD_FIRST_PRINCIPLES-D97706?style=for-the-badge&labelColor=1C130D" />
 </p>
 
 ---
