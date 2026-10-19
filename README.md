@@ -18,9 +18,9 @@
   &nbsp;
   <img src="https://img.shields.io/badge/Persona-Student_%26_AI_Builder-F97316?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1C130D" alt="Student & AI Builder" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-00D4FF?style=for-the-badge&labelColor=080C14" alt="India" />
+  <img src="https://img.shields.io/badge/Location-India_%F0%9F%87%AE%F0%9F%87%B3-F59E0B?style=for-the-badge&labelColor=1C130D" alt="India" />
   &nbsp;
-  <a href="mailto:tanmay.w119@gmail.com"><img src="https://img.shields.io/badge/Email-tanmay.w119%40gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14" alt="Email" /></a>
+  <a href="mailto:tanmay.w119@gmail.com"><img src="https://img.shields.io/badge/Email-tanmay.w119%40gmail.com-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C130D" alt="Email" /></a>
 </p>
 
 ---
