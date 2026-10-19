@@ -226,13 +226,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
       <td>
         <code>OOP Blueprints</code><br/>
         <code>STL & Systems</code><br/>
-        <img src="https://img.shields.io/badge/Status-Active-38BDF8?style=flat-square" alt="Active" />
+        <img src="https://img.shields.io/badge/Status-Active-F97316?style=flat-square" alt="Active" />
       </td>
       <td>
         High-performance Object-Oriented Programming and systems development. Explores memory models, constructors/destructors, operator overloading, inheritance, runtime polymorphism with virtual tables (vtables), and standard template library (STL) containers and algorithms.
       </td>
       <td>
-        <a href="https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL"><img src="https://img.shields.io/badge/View_Repo-38BDF8?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+        <a href="https://github.com/tanmay119-pera/C-PLUS-PLUS-PROGRAMMING-FUNDAMENTAL"><img src="https://img.shields.io/badge/View_Repo-F97316?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="View Repo" /></a>
       </td>
     </tr>
   </tbody>
