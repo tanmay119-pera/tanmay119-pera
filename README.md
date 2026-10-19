@@ -41,6 +41,11 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - ⚡ **Engineering Mindset:** Code that is fast, resilient, and built from first principles
 - ☕ **Deep Work Philosophy:** Quiet dedication, high-focus craft, and obsessive execution
 
+### 🎯 First-Principles Engineering
+- 🛠️ **Zero-Dependency Core:** Native execution without heavy `node_modules` or bloated runtimes
+- 🛡️ **Memory Safety & Profiling:** Leak-free C allocations, Valgrind verification & deterministic pipelines
+- 🤖 **Autonomous Multi-Agent Loops:** Orchestrating intelligent agents that execute reliable workflows
+
 </td>
 <td width="48%" valign="top">
 
@@ -60,6 +65,22 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - 🛡️ **Systems:** 12-Chapter C Suite with 10 Memory-Safe Production Builds
 - 🐍 **Automation:** 10-Chapter Python Curriculum with 10 Production Pipelines
 - ⚡ **Framework:** Friday Framework Zero-Dependency Obsidian Dashboard
+
+### 🛠️ Projects I Made & Active Repositories
+
+- 🏎️ [**BMW i7 3D WebGL Showcase**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) — 360° interactive luxury vehicle canvas with spatial soundscapes
+- 🎙️ [**FORGE Autonomous Voice AI**](#-autonomous-ai--real-time-intelligence) — Low-latency bi-directional voice co-pilot on Agora RTC & Gemini Live API
+- ⚡ [**Friday Framework Dashboard**](https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS) — Zero-dependency cloud telemetry dashboard monitoring 24 shards
+- 🛡️ [**C Memory-Safe Systems Suite**](https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS) — 10 production builds: heap profiling, vectors & Valgrind checks
+- 🍔 [**FoodDrop Delivery Engine**](https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS) — High-conversion on-demand food delivery platform with live cart logic
+- 🐍 [**Python Production CLI Suites**](https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS) — 10 real-world automation tools: bulk emailers & finance trackers
+
+<p align="center">
+  <a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS"><img src="https://img.shields.io/badge/BMW_i7-3D_WebGL-F59E0B?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Friday-Telemetry-F97316?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/C_Suite-10_Builds-D97706?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Python-Automation-F59E0B?style=flat-square&labelColor=1C130D" /></a>
+</p>
 
 </td>
 </tr>
