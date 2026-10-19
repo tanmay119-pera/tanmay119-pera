@@ -407,19 +407,19 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
-    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-tanmay119--pera-F59E0B?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="GitHub" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:tanmay.w119@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-tanmay.w119-00D4FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=080C14" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-tanmay.w119-D97706?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1C130D" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/Tanmay119">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-38BDF8?style=for-the-badge&logo=x&logoColor=white&labelColor=080C14" alt="X" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-Tanmay119-F97316?style=for-the-badge&logo=x&logoColor=white&labelColor=1C130D" alt="X" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adesh-srivastava-706278411">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00D4FF?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=080C14" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-F59E0B?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=1C130D" alt="LinkedIn" />
   </a>
 </p>
 
