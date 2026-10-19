@@ -14,7 +14,7 @@
 
 <!-- QUICK IDENTITY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Role-Agentic_AI_Developer-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="Agentic AI Developer" />
+  <img src="https://img.shields.io/badge/Role-Agentic_AI_Developer-F59E0B?style=for-the-badge&logo=openai&logoColor=black&labelColor=1C130D" alt="Agentic AI Developer" />
   &nbsp;
   <img src="https://img.shields.io/badge/Persona-Student_%26_AI_Builder-38BDF8?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=080C14" alt="Student & AI Builder" />
   &nbsp;
