@@ -171,13 +171,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <code>5 Chapters</code><br/>
         <code>7 Practice Sets</code><br/>
         <code>Capstone Build</code><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square" alt="Completed" />
+        <img src="https://img.shields.io/badge/Status-Completed-F97316?style=flat-square" alt="Completed" />
       </td>
       <td>
         Engineering modern, responsive web interfaces without bloated frameworks. Comprehensive mastery of the CSS Box Model, Flexbox layouts, 2-dimensional CSS Grid, responsive media queries, CSS variables (custom properties), and glassmorphism styling culminate in the Friday Framework capstone.
       </td>
       <td>
-        <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+        <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-F97316?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="View Repo" /></a>
       </td>
     </tr>
     <tr>
