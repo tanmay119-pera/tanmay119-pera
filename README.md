@@ -372,32 +372,32 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 <p align="center">
 
-![Phase 1](https://img.shields.io/badge/PHASE%201-C%20%2B%20PYTHON%20SYSTEMS%20FOUNDATIONS-00D4FF?style=for-the-badge&logo=python&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-00D4FF?style=for-the-badge)
+![Phase 1](https://img.shields.io/badge/PHASE%201-C%20%2B%20PYTHON%20SYSTEMS%20FOUNDATIONS-F59E0B?style=for-the-badge&logo=python&logoColor=white&labelColor=1C130D)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-F59E0B?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 2](https://img.shields.io/badge/PHASE%202-INTERACTIVE%20WEB%20ENGINEERING%20(CSS3%2C%20JS%2C%20DOM)-38BDF8?style=for-the-badge&logo=javascript&logoColor=black&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-38BDF8?style=for-the-badge)
+![Phase 2](https://img.shields.io/badge/PHASE%202-INTERACTIVE%20WEB%20ENGINEERING%20(CSS3%2C%20JS%2C%20DOM)-F97316?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1C130D)
+![Status](https://img.shields.io/badge/%E2%9C%85-COMPLETED-F97316?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 3](https://img.shields.io/badge/PHASE%203-CLASSICAL%20ML%20%26%20DEEP%20NEURAL%20NETWORKS-00D4FF?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-00D4FF?style=for-the-badge)
+![Phase 3](https://img.shields.io/badge/PHASE%203-CLASSICAL%20ML%20%26%20DEEP%20NEURAL%20NETWORKS-F59E0B?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=1C130D)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-F59E0B?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 4](https://img.shields.io/badge/PHASE%204-AUTONOMOUS%20MULTI--AGENT%20ORCHESTRATION-38BDF8?style=for-the-badge&logo=openai&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-38BDF8?style=for-the-badge)
+![Phase 4](https://img.shields.io/badge/PHASE%204-AUTONOMOUS%20MULTI--AGENT%20ORCHESTRATION-F97316?style=for-the-badge&logo=openai&logoColor=white&labelColor=1C130D)
+![Status](https://img.shields.io/badge/%F0%9F%94%84-IN%20PROGRESS-F97316?style=for-the-badge)
 
 </p>
 <p align="center">
 
-![Phase 5](https://img.shields.io/badge/PHASE%205-AGENTIC%20MLOPS%20%26%20AUTONOMOUS%20SWARMS-00D4FF?style=for-the-badge&logo=docker&logoColor=white&labelColor=080C14)
-![Status](https://img.shields.io/badge/%E2%8F%B3-UPCOMING-00D4FF?style=for-the-badge)
+![Phase 5](https://img.shields.io/badge/PHASE%205-AGENTIC%20MLOPS%20%26%20AUTONOMOUS%20SWARMS-D97706?style=for-the-badge&logo=docker&logoColor=white&labelColor=1C130D)
+![Status](https://img.shields.io/badge/%E2%8F%B3-UPCOMING-D97706?style=for-the-badge)
 
 </p>
 
