@@ -152,13 +152,13 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
         <code>10 Chapters</code><br/>
         <code>50+ WAPs</code><br/>
         <code>10 Projects</code><br/>
-        <img src="https://img.shields.io/badge/Status-Completed-00D4FF?style=flat-square" alt="Completed" />
+        <img src="https://img.shields.io/badge/Status-Completed-F59E0B?style=flat-square" alt="Completed" />
       </td>
       <td>
         From syntax basics to advanced Object-Oriented software engineering. Deep dives into Pythonic data structures (lists, tuples, dicts, sets), recursion stacks, context managers, file streams, class encapsulation, inheritance hierarchies, and dunder methods. Includes 10 real-world automation tools.
       </td>
       <td>
-        <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-00D4FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080C14" alt="View Repo" /></a>
+        <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/View_Repo-F59E0B?style=for-the-badge&logo=github&logoColor=black&labelColor=1C130D" alt="View Repo" /></a>
       </td>
     </tr>
     <tr>
