@@ -78,9 +78,9 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 ### 🤖 Autonomous AI & Agentic Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI_API-00D4FF?style=for-the-badge&logo=openai&logoColor=black&labelColor=080C14" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/OpenAI_API-F59E0B?style=for-the-badge&logo=openai&logoColor=black&labelColor=1C130D" alt="OpenAI" />
   &nbsp;
-  <img src="https://img.shields.io/badge/LangChain-38BDF8?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=080C14" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangChain-F97316?style=for-the-badge&logo=chainlink&logoColor=white&labelColor=1C130D" alt="LangChain" />
   &nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=080C14" alt="PyTorch" />
   &nbsp;
