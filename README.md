@@ -39,6 +39,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 - 🤖 **Specialization:** Autonomous Agents, LLM Tool Integration & Zero-Dependency Systems
 - 🎓 **Identity:** Student pushing the frontier of practical AI engineering
 - ⚡ **Engineering Mindset:** Code that is fast, resilient, and built from first principles
+- ☕ **Deep Work Philosophy:** Quiet dedication, high-focus craft, and obsessive execution
 
 </td>
 <td width="48%" valign="top">
