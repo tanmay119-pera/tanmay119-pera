@@ -8,7 +8,7 @@
 <!-- DYNAMIC TYPING SVG BANNER (WARM AMBER & GOLDEN GLOW) -->
 <p align="center">
   <a href="https://github.com/tanmay119-pera">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=1000&color=F59E0B&background=00000000&center=true&vCenter=true&repeat=true&width=880&lines=%E2%9A%A1+AGENTIC+AI+DEVELOPER+%E2%80%A2+SYSTEMS+ARCHITECT;%F0%9F%8E%93+STUDENT+%26+AUTONOMOUS+AI+BUILDER;%F0%9F%A4%96+ORCHESTRATING+MULTI-AGENT+AI+WORKFLOWS;%F0%9F%9A%80+FROM+LOW-LEVEL+C+%26+PYTHON+TO+PRODUCTION+SYSTEMS" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2400&pause=1000&color=F59E0B&background=00000000&center=true&vCenter=true&repeat=true&width=880&lines=%E2%9A%A1+AGENTIC+AI+DEVELOPER+%E2%80%A2+SYSTEMS+ARCHITECT;%F0%9F%8E%93+STUDENT+%26+AUTONOMOUS+AI+BUILDER;%F0%9F%A4%96+ORCHESTRATING+MULTI-AGENT+AI+WORKFLOWS;%F0%9F%9A%80+FROM+LOW-LEVEL+C+%26+PYTHON+TO+PRODUCTION+SYSTEMS;%F0%9F%93%88+OBSESSION+OUTLASTS+PASSION" alt="Typing Banner" />
   </a>
 </p>
 
@@ -105,109 +105,6 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
   <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/🐍_Python_CLI-10_Automation_Suites-F59E0B?style=for-the-badge&labelColor=1C130D" /></a>
 </p>
 
-<h3 align="center">🔥 What I Made — Signature Project Spotlight</h3>
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">Project & Domain</th>
-      <th width="48%">Core Architecture & Deliverables</th>
-      <th width="22%">Tech Stack & Repo</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        🏎️ <strong><a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS">BMW i7 3D WebGL</a></strong>
-        <br/>
-        <sub>Interactive Automotive Experience</sub>
-      </td>
-      <td>
-        Real-time 3D vehicle canvas with 360° orbit camera, metallic physically-based reflections, dynamic lighting, and spatial audio engine.
-      </td>
-      <td>
-        <a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS"><img src="https://img.shields.io/badge/Three.js-WebGL-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-        <br/>
-        <img src="https://img.shields.io/badge/React_18-Tailwind-F97316?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        🎙️ <strong><a href="#-autonomous-ai--real-time-intelligence">FORGE Voice AI</a></strong>
-        <br/>
-        <sub>Low-Latency Conversational Agent</sub>
-      </td>
-      <td>
-        Bi-directional speech-to-speech AI co-pilot built on Agora SD-RTN and Gemini Multimodal Live API with autonomous tool calling.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Gemini_Live-Agora_RTC-F59E0B?style=flat-square&labelColor=1C130D" />
-        <br/>
-        <img src="https://img.shields.io/badge/WebSockets-FastAPI-D97706?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        ⚡ <strong><a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS">Friday Framework</a></strong>
-        <br/>
-        <sub>Zero-Dependency Cloud Dashboard</sub>
-      </td>
-      <td>
-        Telemetry monitoring 24 cloud shards across Indian data zones. Pure CSS glassmorphism, sub-millisecond paint, and zero node_modules.
-      </td>
-      <td>
-        <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Native_CSS3-Zero_Deps-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-        <br/>
-        <img src="https://img.shields.io/badge/Vanilla_JS-ES6+-F97316?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        🛡️ <strong><a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS">C Systems Suite</a></strong>
-        <br/>
-        <sub>12 Chapters & 10 Production Builds</sub>
-      </td>
-      <td>
-        Close-to-the-metal programming: dynamic heap allocators, contiguous vector databases, Valgrind memory leak profiling, and formatted CLI tables.
-      </td>
-      <td>
-        <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/C99%2FC11-Valgrind-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-        <br/>
-        <img src="https://img.shields.io/badge/10_Builds-Memory_Safe-D97706?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        🍔 <strong><a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS">FoodDrop Platform</a></strong>
-        <br/>
-        <sub>On-Demand Food Delivery Engine</sub>
-      </td>
-      <td>
-        Responsive food commerce platform with live multi-vendor restaurant filtering, interactive price recalculations, and fluid checkout UX.
-      </td>
-      <td>
-        <a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS"><img src="https://img.shields.io/badge/JavaScript-ES6+-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-        <br/>
-        <img src="https://img.shields.io/badge/CSS_Grid-Flexbox-F97316?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        🐍 <strong><a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS">Python CLI Automation</a></strong>
-        <br/>
-        <sub>10 Production Automation Suites</sub>
-      </td>
-      <td>
-        Production CLI tools: automated bulk email dispatcher with CSV stream parsing, personal finance trackers, and recursive file-system visualizers.
-      </td>
-      <td>
-        <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Python_3-Automation-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-        <br/>
-        <img src="https://img.shields.io/badge/10_Projects-Production-D97706?style=flat-square&labelColor=1C130D" />
-      </td>
-    </tr>
-  </tbody>
-</table>
 
 ---
 ## 🛠️ TECH ARSENAL
