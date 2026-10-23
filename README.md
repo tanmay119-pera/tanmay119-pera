@@ -58,6 +58,7 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 | ⚡ | **Maintaining** production-grade C, Python, CSS & Web architectures |
 | 🛠️ | **Building** zero-dependency high-throughput web dashboards |
 | 🌐 | **Deploying** open-source code with real-world impact |
+| 📈 | **Obsessing** over high-performance low-level engineering |
 
 ### 💡 Highlights at a Glance
 
@@ -77,9 +78,10 @@ I focus on the intersection of **low-level systems architecture** and **autonomo
 
 <p align="center">
   <a href="https://github.com/tanmay119-pera/WEB-DEVELOPMENT-PROJECTS"><img src="https://img.shields.io/badge/BMW_i7-3D_WebGL-F59E0B?style=flat-square&labelColor=1C130D" /></a>
-  <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Friday-Telemetry-F97316?style=flat-square&labelColor=1C130D" /></a>
-  <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/C_Suite-10_Builds-D97706?style=flat-square&labelColor=1C130D" /></a>
-  <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Python-Automation-F59E0B?style=flat-square&labelColor=1C130D" /></a>
+  <a href="#-autonomous-ai--real-time-intelligence"><img src="https://img.shields.io/badge/FORGE-Voice_AI-F97316?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/CSS-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Friday-Telemetry-D97706?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/C-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/C_Suite-10_Builds-F59E0B?style=flat-square&labelColor=1C130D" /></a>
+  <a href="https://github.com/tanmay119-pera/PYTHON-PROGRAMMING-FUNDAMENTALS"><img src="https://img.shields.io/badge/Python-Automation-F97316?style=flat-square&labelColor=1C130D" /></a>
 </p>
 
 </td>
